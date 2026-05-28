@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-05-28T12:08:35",
+  "last_updated": "2026-05-28T12:11:21",
   "html": {
     "https://web.archive.org/web/20250829110010if_/https://twitter.com/buandeye6/status/1961383369843118592": {
       "status": "done",
@@ -2486,18 +2486,18 @@
       "referenced_by": [
         "20250828155029_twitter_com_buandeye6_status_1961094040537194882.json"
       ],
-      "last_updated": "2026-05-28T00:50:51",
+      "last_updated": "2026-05-28T12:08:50",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250828155029/https://video.twimg.com/ext_tw_video/1961093868138700800/pu/vid/avc1/1280x720/KaKW2Su5_iyBE_4B.mp4?tag=12",
-      "miss_count": 4
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/1975976590694637568/pu/vid/avc1/1280x720/WOcHl7HQO8XFK7pE.mp4?tag=12": {
       "status": "failed_all",
       "referenced_by": [
         "20251008173203_twitter_com_buandeye6_status_1975977505627701314.json"
       ],
-      "last_updated": "2026-05-28T00:50:53",
+      "last_updated": "2026-05-28T12:08:53",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251008173203/https://video.twimg.com/ext_tw_video/1975976590694637568/pu/vid/avc1/1280x720/WOcHl7HQO8XFK7pE.mp4?tag=12",
-      "miss_count": 4
+      "miss_count": 5
     },
     "https://video.twimg.com/amplify_video/1981317433160818688/vid/avc1/720x1280/V4unfPpqjUrW26cI.mp4?tag=14": {
       "status": "done",
@@ -2509,121 +2509,121 @@
       "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/1982123077363179520/pu/vid/avc1/720x1280/Bfz7OSqCnZ4mJZJv.mp4?tag=12": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20251025163231_twitter_com_buandeye6_status_1982123114134962533.json"
       ],
-      "last_updated": "2026-05-28T00:51:09",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251025163231/https://video.twimg.com/ext_tw_video/1982123077363179520/pu/vid/avc1/720x1280/Bfz7OSqCnZ4mJZJv.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f511ed983b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-05-28T12:08:57",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251025163231/https://video.twimg.com/ext_tw_video/1982123077363179520/pu/vid/avc1/720x1280/Bfz7OSqCnZ4mJZJv.mp4?tag=12",
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/1982125530745917440/pu/vid/avc1/720x1280/RnwNDPRXTTAppsgH.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20251025164214_twitter_com_buandeye6_status_1982125560437358699.json"
       ],
-      "last_updated": "2026-05-28T00:51:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251025164214/https://video.twimg.com/ext_tw_video/1982125530745917440/pu/vid/avc1/720x1280/RnwNDPRXTTAppsgH.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f511ed76990>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-05-28T12:09:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251025164214/https://video.twimg.com/ext_tw_video/1982125530745917440/pu/vid/avc1/720x1280/RnwNDPRXTTAppsgH.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ed5997170>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/1982127202129874944/pu/vid/avc1/720x1280/kpjCU3MbGP_j4g_I.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20251025164901_twitter_com_buandeye6_status_1982127267816861856.json"
       ],
-      "last_updated": "2026-05-28T00:51:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251025164901/https://video.twimg.com/ext_tw_video/1982127202129874944/pu/vid/avc1/720x1280/kpjCU3MbGP_j4g_I.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f511ed99790>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-05-28T12:09:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251025164901/https://video.twimg.com/ext_tw_video/1982127202129874944/pu/vid/avc1/720x1280/kpjCU3MbGP_j4g_I.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ed593dee0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/1991172029807005696/pu/vid/avc1/1280x720/aQLyuBmVhqesFgVT.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20251119155022_twitter_com_buandeye6_status_1991172205091450914.json"
       ],
-      "last_updated": "2026-05-28T00:51:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119155022/https://video.twimg.com/ext_tw_video/1991172029807005696/pu/vid/avc1/1280x720/aQLyuBmVhqesFgVT.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f511ed76e10>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-05-28T12:09:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119155022/https://video.twimg.com/ext_tw_video/1991172029807005696/pu/vid/avc1/1280x720/aQLyuBmVhqesFgVT.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ed5994dd0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/1991173032891580416/pu/vid/avc1/1280x720/PVnl8hQ1ftb8KL5e.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20251119155442_twitter_com_buandeye6_status_1991173297128796400.json"
       ],
-      "last_updated": "2026-05-28T00:51:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119155442/https://video.twimg.com/ext_tw_video/1991173032891580416/pu/vid/avc1/1280x720/PVnl8hQ1ftb8KL5e.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f511ed99010>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-05-28T12:09:43",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251119155442/https://video.twimg.com/ext_tw_video/1991173032891580416/pu/vid/avc1/1280x720/PVnl8hQ1ftb8KL5e.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ed59975c0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/2005700613901107200/pu/vid/avc1/1280x720/1WQb7p_-5YR7SbLo.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20251229180122_twitter_com_buandeye6_status_2005700685497835723.json"
       ],
-      "last_updated": "2026-05-28T00:52:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251229180122/https://video.twimg.com/ext_tw_video/2005700613901107200/pu/vid/avc1/1280x720/1WQb7p_-5YR7SbLo.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f511edc0110>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-05-28T12:09:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251229180122/https://video.twimg.com/ext_tw_video/2005700613901107200/pu/vid/avc1/1280x720/1WQb7p_-5YR7SbLo.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ed59956a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/2005700654166421504/pu/vid/avc1/1280x720/iIuNbaLeNFED0FNL.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20251229180122_twitter_com_buandeye6_status_2005700685497835723.json"
       ],
-      "last_updated": "2026-05-28T00:52:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251229180122/https://video.twimg.com/ext_tw_video/2005700654166421504/pu/vid/avc1/1280x720/iIuNbaLeNFED0FNL.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f511ed9b9e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-05-28T12:10:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251229180122/https://video.twimg.com/ext_tw_video/2005700654166421504/pu/vid/avc1/1280x720/iIuNbaLeNFED0FNL.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ed59b47d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/2005702332529664004/pu/vid/avc1/1280x720/Cs7S8Ej3ziv0YpZV.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20251229180816_twitter_com_buandeye6_status_2005702422795309393.json"
       ],
-      "last_updated": "2026-05-28T00:52:34",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251229180816/https://video.twimg.com/ext_tw_video/2005702332529664004/pu/vid/avc1/1280x720/Cs7S8Ej3ziv0YpZV.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f511ed74710>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-05-28T12:10:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251229180816/https://video.twimg.com/ext_tw_video/2005702332529664004/pu/vid/avc1/1280x720/Cs7S8Ej3ziv0YpZV.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ed59b70b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/2005702387819044864/pu/vid/avc1/1280x720/2LC5L7iOVV1kcNJL.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20251229180816_twitter_com_buandeye6_status_2005702422795309393.json"
       ],
-      "last_updated": "2026-05-28T00:52:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251229180816/https://video.twimg.com/ext_tw_video/2005702387819044864/pu/vid/avc1/1280x720/2LC5L7iOVV1kcNJL.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f511ed9ade0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-05-28T12:10:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20251229180816/https://video.twimg.com/ext_tw_video/2005702387819044864/pu/vid/avc1/1280x720/2LC5L7iOVV1kcNJL.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ed59b5670>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/2028090976225611776/pu/vid/avc1/720x1280/Q3wWQ7Lz4nnc7ybe.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260301125354_twitter_com_buandeye6_status_2028091359576707239.json"
       ],
-      "last_updated": "2026-05-28T00:52:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260301125354/https://video.twimg.com/ext_tw_video/2028090976225611776/pu/vid/avc1/720x1280/Q3wWQ7Lz4nnc7ybe.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f511ed75190>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-05-28T12:10:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260301125354/https://video.twimg.com/ext_tw_video/2028090976225611776/pu/vid/avc1/720x1280/Q3wWQ7Lz4nnc7ybe.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ed593f9b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/2044079945018945539/pu/vid/avc1/1280x720/tl_uYDl4aaxZ1s1S.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260414154919_twitter_com_buandeye6_status_2044080569559273680.json"
       ],
-      "last_updated": "2026-05-28T00:53:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414154919/https://video.twimg.com/ext_tw_video/2044079945018945539/pu/vid/avc1/1280x720/tl_uYDl4aaxZ1s1S.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f511ed9a5d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-05-28T12:10:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414154919/https://video.twimg.com/ext_tw_video/2044079945018945539/pu/vid/avc1/1280x720/tl_uYDl4aaxZ1s1S.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ed59b4860>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/2044086524262969344/pu/vid/avc1/1280x720/KfMgDV1IIMQZecrY.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260414161352_twitter_com_buandeye6_status_2044086747479585182.json"
       ],
-      "last_updated": "2026-05-28T00:53:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414161352/https://video.twimg.com/ext_tw_video/2044086524262969344/pu/vid/avc1/1280x720/KfMgDV1IIMQZecrY.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f511ed77680>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-05-28T12:11:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260414161352/https://video.twimg.com/ext_tw_video/2044086524262969344/pu/vid/avc1/1280x720/KfMgDV1IIMQZecrY.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ed5994e30>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/2057502606638088194/pu/vid/avc1/1280x720/rXxJkD0V9yaRRhOx.mp4?tag=12": {
       "status": "failed",
       "referenced_by": [
         "20260521164409_twitter_com_buandeye6_status_2057502719439700330.json"
       ],
-      "last_updated": "2026-05-28T00:53:35",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521164409/https://video.twimg.com/ext_tw_video/2057502606638088194/pu/vid/avc1/1280x720/rXxJkD0V9yaRRhOx.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f511ed9b9e0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 4
+      "last_updated": "2026-05-28T12:11:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521164409/https://video.twimg.com/ext_tw_video/2057502606638088194/pu/vid/avc1/1280x720/rXxJkD0V9yaRRhOx.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3ed59b62d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 5
     }
   },
   "avatars": {
@@ -4098,7 +4098,7 @@
       "last_updated": "2026-05-28T00:05:45"
     },
     "20251025163231_twitter_com_buandeye6_status_1982123114134962533.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -4108,7 +4108,7 @@
           "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg"
         ]
       },
-      "last_updated": "2026-05-28T00:15:30",
+      "last_updated": "2026-05-28T12:08:57",
       "miss_count": 2
     },
     "20251025164214_twitter_com_buandeye6_status_1982125560437358699.json": {
