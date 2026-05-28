@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1987864533579509860",
+    "created_at": "2025-11-10T15:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T16:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987899770757599535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1502090225903804421",
+          "start": 0,
+          "username": "j22116132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987899770757599535",
+    "in_reply_to_user_id": "1502090225903804421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987892047127404892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@j22116132 我看到你发的了哈哈哈 周围没正常人吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1987864533579509860",
+        "created_at": "2025-11-10T15:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T16:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987899770757599535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1502090225903804421",
+              "start": 0,
+              "username": "j22116132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987899770757599535",
+        "in_reply_to_user_id": "1502090225903804421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987892047127404892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@j22116132 我看到你发的了哈哈哈 周围没正常人吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502090225903804421",
+        "conversation_id": "1987864533579509860",
+        "created_at": "2025-11-10T14:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987892047127404892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "257243542",
+              "start": 0,
+              "username": "buandeye6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987892047127404892",
+        "in_reply_to_user_id": "257243542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987882389511737707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buandeye6 我上一个遇到的更奇葩…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 93,
+          "like_count": 1500,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 367
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-11T01:13:23.000Z",
+        "description": "",
+        "id": "1502090225903804421",
+        "location": "Los Angeles, CA",
+        "name": "海盐芝士藕粉",
+        "pinned_tweet_id": "1737469787851112714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515714995580981249/rqw3wzgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5069,
+          "following_count": 61,
+          "like_count": 584,
+          "listed_count": 30,
+          "media_count": 189,
+          "tweet_count": 644
+        },
+        "username": "j22116132",
+        "verified": false
+      }
+    ]
+  }
+}

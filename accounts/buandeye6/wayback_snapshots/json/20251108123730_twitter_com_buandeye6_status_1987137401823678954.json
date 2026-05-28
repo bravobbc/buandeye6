@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1987137401823678954",
+    "created_at": "2025-11-08T12:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T13:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987137401823678954"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987137401823678954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈的，出差一个月怎么健身啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1987137401823678954",
+        "created_at": "2025-11-08T12:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T13:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987137401823678954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987137401823678954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的，出差一个月怎么健身啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "坐标南通",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 94,
+          "like_count": 1477,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 353
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

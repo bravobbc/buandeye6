@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2005700613901107200",
+        "7_2005700654166421504",
+        "3_2005700619328434176"
+      ]
+    },
+    "author_id": "257243542",
+    "conversation_id": "2005700685497835723",
+    "created_at": "2025-12-29T18:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T19:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005700685497835723"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 7,
+          "tag": "反差"
+        },
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "南京"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R5P7CD9yux",
+          "end": 38,
+          "expanded_url": "https://x.com/buandeye6/status/2005700685497835723/video/1",
+          "media_key": "7_2005700613901107200",
+          "start": 15,
+          "url": "https://t.co/R5P7CD9yux"
+        },
+        {
+          "display_url": "pic.x.com/R5P7CD9yux",
+          "end": 38,
+          "expanded_url": "https://x.com/buandeye6/status/2005700685497835723/video/1",
+          "media_key": "7_2005700654166421504",
+          "start": 15,
+          "url": "https://t.co/R5P7CD9yux"
+        },
+        {
+          "display_url": "pic.x.com/R5P7CD9yux",
+          "end": 38,
+          "expanded_url": "https://x.com/buandeye6/status/2005700685497835723/video/1",
+          "media_key": "3_2005700619328434176",
+          "start": 15,
+          "url": "https://t.co/R5P7CD9yux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005700685497835723",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新玩具，好用！#反差 #南京 https://t.co/R5P7CD9yux"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2005700685497835723].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2005700685497835723",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2005700685497835723"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11925,
+        "height": 720,
+        "media_key": "7_2005700613901107200",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2005700613901107200/pu/img/QdEaKH21ERAzsp-i.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2005700613901107200/pu/vid/avc1/480x270/67KnA0NmoiHCU0uT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2005700613901107200/pu/vid/avc1/640x360/A_qCyNaXFEZq3ciw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2005700613901107200/pu/vid/avc1/1280x720/1WQb7p_-5YR7SbLo.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2005700613901107200/pu/pl/Xpq7d8ibb8-9PFdE.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 7168,
+        "height": 720,
+        "media_key": "7_2005700654166421504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2005700654166421504/pu/img/xNR4hpY2c7MQ7Zyf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2005700654166421504/pu/vid/avc1/480x270/uKNIlz1ay6MsBroq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2005700654166421504/pu/vid/avc1/640x360/w1LCs8Um9q7RvqYr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2005700654166421504/pu/vid/avc1/1280x720/iIuNbaLeNFED0FNL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2005700654166421504/pu/pl/2Tvlo6MAG5Thm7xf.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2005700619328434176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9WuFizaMAARDzx.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 88,
+          "like_count": 1900,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 465
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

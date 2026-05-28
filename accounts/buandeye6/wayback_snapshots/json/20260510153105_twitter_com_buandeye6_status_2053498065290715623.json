@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2053480993227751667",
+    "created_at": "2026-05-10T15:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T16:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053498065290715623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1826571517490331650",
+          "start": 0,
+          "username": "xiangxiangx1688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053498065290715623",
+    "in_reply_to_user_id": "1826571517490331650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053480993227751667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangxiangx1688 收到的简历太多了，今年研究生简历都堆成山。。。内卷的厉害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2053480993227751667",
+        "created_at": "2026-05-10T15:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053498065290715623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1826571517490331650",
+              "start": 0,
+              "username": "xiangxiangx1688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053498065290715623",
+        "in_reply_to_user_id": "1826571517490331650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053480993227751667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangxiangx1688 收到的简历太多了，今年研究生简历都堆成山。。。内卷的厉害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826571517490331650",
+        "conversation_id": "2053480993227751667",
+        "created_at": "2026-05-10T14:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053480993227751667"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "小狗日记"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053480993227751667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#小狗日记 这二个月是不是找工作最难的季节，怎么我的简历回复率那么低，我以前没有这么离谱啊，不这样啊😫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 91,
+          "like_count": 2531,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 634
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T10:46:15.000Z",
+        "description": "厌蠢讨厌废话 #brat # sub 痴迷于 #ddlg 纯直女 不约 表达欲旺盛 纯树洞 分享 此外我发照片是因为我喜欢暴露，欣赏我美丽的身体不是因为我喜欢你不代表你可以不尊重我不好好跟我说话 不要一上来就叫我小狗什么的 很冒昧 我有巨物恐惧症害怕大sb 盗图财运都给我 心情好会理有趣的人 不聊骚找我聊骚的财运转给我",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 7,
+                "tag": "brat"
+              },
+              {
+                "end": 28,
+                "start": 23,
+                "tag": "ddlg"
+              }
+            ]
+          }
+        },
+        "id": "1826571517490331650",
+        "location": "苏州",
+        "name": "香",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890688035924398080/CU2lu1Wz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3322,
+          "following_count": 109,
+          "like_count": 2641,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 1324
+        },
+        "username": "xiangxiangx1688",
+        "verified": false
+      }
+    ]
+  }
+}

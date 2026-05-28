@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2005120563677937734",
+    "created_at": "2025-12-28T03:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T04:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005124706580791625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1810569926446567424",
+          "start": 0,
+          "username": "cz_122333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005124706580791625",
+    "in_reply_to_user_id": "1810569926446567424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005120563677937734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cz_122333 披萨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2005120563677937734",
+        "created_at": "2025-12-28T03:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T04:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005124706580791625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1810569926446567424",
+              "start": 0,
+              "username": "cz_122333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005124706580791625",
+        "in_reply_to_user_id": "1810569926446567424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005120563677937734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cz_122333 披萨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810569926446567424",
+        "conversation_id": "2005120563677937734",
+        "created_at": "2025-12-28T03:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T04:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005120563677937734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005120563677937734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中午吃啥吃啥（🚫禁止黄的 正经推荐）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 91,
+          "like_count": 1857,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 457
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T07:01:39.000Z",
+        "description": "158一小只～喜欢上网碎碎念分享xp～线下不约～不过门槛🚪纯分享玩玩～口口仙人૮₍ᵔ⤙ᵔ₎ა",
+        "id": "1810569926446567424",
+        "name": "嗯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004300877553979397/3mYyBtl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9365,
+          "following_count": 48,
+          "like_count": 1406,
+          "listed_count": 43,
+          "media_count": 360,
+          "tweet_count": 3146
+        },
+        "username": "cz_122333",
+        "verified": false
+      }
+    ]
+  }
+}

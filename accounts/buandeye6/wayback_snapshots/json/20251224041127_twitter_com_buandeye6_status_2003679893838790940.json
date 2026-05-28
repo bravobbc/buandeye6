@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2003679622295323069",
+    "created_at": "2025-12-24T04:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T05:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003679893838790940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618903705172201472",
+          "start": 0,
+          "username": "zxpf123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003679893838790940",
+    "in_reply_to_user_id": "1618903705172201472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003679622295323069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxpf123 瘦了吗是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003679616276570112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G85__rvbIAANdgz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2003679622295323069",
+        "created_at": "2025-12-24T04:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T05:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003679893838790940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618903705172201472",
+              "start": 0,
+              "username": "zxpf123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003679893838790940",
+        "in_reply_to_user_id": "1618903705172201472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003679622295323069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxpf123 瘦了吗是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003679616276570112"
+          ]
+        },
+        "author_id": "1618903705172201472",
+        "conversation_id": "2003679622295323069",
+        "created_at": "2025-12-24T04:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T05:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003679622295323069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zj19j232Th",
+              "end": 35,
+              "expanded_url": "https://x.com/zxpf123/status/2003679622295323069/photo/1",
+              "media_key": "3_2003679616276570112",
+              "start": 12,
+              "url": "https://t.co/Zj19j232Th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003679622295323069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "裸棕色其实很显我的肤色 https://t.co/Zj19j232Th"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 98,
+          "like_count": 1763,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 447
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T09:28:28.000Z",
+        "description": "sub｜唯一联系方式就是本号私信 ｜互关无门 唯一🚪 doi日常488 小@zxpf1234｜无电报推广自辨🪜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "zxpf1234"
+              }
+            ]
+          }
+        },
+        "id": "1618903705172201472",
+        "location": "你心里❤️",
+        "name": "Kiki",
+        "pinned_tweet_id": "1959242075372966112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888570461824614400/ppWdZo4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31512,
+          "following_count": 304,
+          "like_count": 3928,
+          "listed_count": 121,
+          "media_count": 765,
+          "tweet_count": 8335
+        },
+        "username": "zxpf123",
+        "verified": false
+      }
+    ]
+  }
+}

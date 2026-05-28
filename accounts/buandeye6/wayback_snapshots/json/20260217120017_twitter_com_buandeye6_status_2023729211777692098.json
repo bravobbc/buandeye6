@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2023705151736070416",
+    "created_at": "2026-02-17T12:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T13:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023729211777692098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662638973578260480",
+          "start": 0,
+          "username": "IlunlInulilIil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023729211777692098",
+    "in_reply_to_user_id": "1662638973578260480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023705151736070416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IlunlInulilIil 上班上久了，绝大部分关系都是利益导向，真心可能只有那么一瞬间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2023705151736070416",
+        "created_at": "2026-02-17T12:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023729211777692098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662638973578260480",
+              "start": 0,
+              "username": "IlunlInulilIil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023729211777692098",
+        "in_reply_to_user_id": "1662638973578260480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023705151736070416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IlunlInulilIil 上班上久了，绝大部分关系都是利益导向，真心可能只有那么一瞬间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662638973578260480",
+        "conversation_id": "2023705151736070416",
+        "created_at": "2026-02-17T10:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023705151736070416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023705151736070416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看清了那些想要吃我的老登们，平时都是想拿钱买爱做，但总硬凹一些非常冠冕堂皇借口和理由，各种想方设法哄骗我。\n真到过年这时候，互道祝福却不见红包一个🙄跟平时吊痒的样子真是天差地别，好恶心呀\n也果然，年轻的小姑娘是玩不过40+老登的，个别人我真的以为是真心待我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 90,
+          "like_count": 2130,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 510
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T01:56:48.000Z",
+        "description": "不约/有礼貌/别关注",
+        "id": "1662638973578260480",
+        "location": "上海",
+        "name": "IlIlilIl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019252321390305280/gukdZ4Ve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 154,
+          "like_count": 4695,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 189
+        },
+        "username": "IlunlInulilIil",
+        "verified": false
+      }
+    ]
+  }
+}

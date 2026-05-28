@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2039653884579475571",
+    "created_at": "2026-04-02T10:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T11:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039653884579475571"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039653884579475571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "服务器被攻击了，加班工作量＋＋＋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2039653884579475571",
+        "created_at": "2026-04-02T10:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039653884579475571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039653884579475571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服务器被攻击了，加班工作量＋＋＋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 92,
+          "like_count": 2333,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 562
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

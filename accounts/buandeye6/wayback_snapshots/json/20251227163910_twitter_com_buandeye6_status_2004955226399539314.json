@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2004955035227304335",
+    "created_at": "2025-12-27T16:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T17:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004955226399539314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766703233282846720",
+          "start": 0,
+          "username": "Cathybaby723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004955226399539314",
+    "in_reply_to_user_id": "1766703233282846720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004955035227304335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cathybaby723 确实帅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2004955035227304335",
+        "created_at": "2025-12-27T16:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T17:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004955226399539314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766703233282846720",
+              "start": 0,
+              "username": "Cathybaby723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004955226399539314",
+        "in_reply_to_user_id": "1766703233282846720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004955035227304335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cathybaby723 确实帅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766703233282846720",
+        "conversation_id": "2004955035227304335",
+        "created_at": "2025-12-27T16:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T17:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004955035227304335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004955035227304335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂蓝井优太啊，看得我直咽口水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 104,
+          "like_count": 1832,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 454
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T05:51:07.000Z",
+        "description": "反差女博士，温柔又犀利，喜欢在科研和色色之间随心切换，看你想解锁哪一面，每天分享日常和观点，主打真诚和反差❤️（私信太多，不得不筛过🚪）A real person is studying for a female doctor. 防走丢小号：@Cathybaby723o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 121,
+                "username": "Cathybaby723o"
+              }
+            ]
+          }
+        },
+        "id": "1766703233282846720",
+        "location": "New York, NY",
+        "name": "Cathy Doctor",
+        "pinned_tweet_id": "1897196708100239535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993006633342189569/PyOQMzJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23116,
+          "following_count": 59,
+          "like_count": 7381,
+          "listed_count": 29,
+          "media_count": 345,
+          "tweet_count": 4753
+        },
+        "username": "Cathybaby723",
+        "verified": false
+      }
+    ]
+  }
+}

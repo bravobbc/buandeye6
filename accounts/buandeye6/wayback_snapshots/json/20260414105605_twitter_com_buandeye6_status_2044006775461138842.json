@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044006772806139904"
+      ]
+    },
+    "author_id": "257243542",
+    "conversation_id": "2044006775461138842",
+    "created_at": "2026-04-14T10:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044006775461138842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zNRgjjS3V8",
+          "end": 65,
+          "expanded_url": "https://x.com/buandeye6/status/2044006775461138842/photo/1",
+          "media_key": "3_2044006772806139904",
+          "start": 42,
+          "url": "https://t.co/zNRgjjS3V8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044006775461138842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "全季已经变得陌生了，怎么有两个落地窗还有一个全身镜啊，太适合do了，可惜我是来出差 https://t.co/zNRgjjS3V8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2044006772806139904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3FVIuaQAA6aNI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044006772806139904"
+          ]
+        },
+        "author_id": "257243542",
+        "conversation_id": "2044006775461138842",
+        "created_at": "2026-04-14T10:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044006775461138842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zNRgjjS3V8",
+              "end": 65,
+              "expanded_url": "https://x.com/buandeye6/status/2044006775461138842/photo/1",
+              "media_key": "3_2044006772806139904",
+              "start": 42,
+              "url": "https://t.co/zNRgjjS3V8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044006775461138842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全季已经变得陌生了，怎么有两个落地窗还有一个全身镜啊，太适合do了，可惜我是来出差 https://t.co/zNRgjjS3V8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 91,
+          "like_count": 2436,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 598
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

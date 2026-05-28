@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1987084449612534147",
+    "created_at": "2025-11-08T17:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987213982198083958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987213982198083958",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987084449612534147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 我现在这个十块钱用了两年了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987084416074850307",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OKv5bbIAMV5Ct.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987084416292978688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OKv6PbgAA5idU.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1987084449612534147",
+        "created_at": "2025-11-08T17:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987213982198083958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987213982198083958",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987084449612534147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 我现在这个十块钱用了两年了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987084416074850307",
+            "3_1987084416292978688"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "1987084449612534147",
+        "created_at": "2025-11-08T09:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T10:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987084449612534147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iHisF7E6Ky",
+              "end": 58,
+              "expanded_url": "https://x.com/pyke2076/status/1987084449612534147/photo/1",
+              "media_key": "3_1987084416074850307",
+              "start": 35,
+              "url": "https://t.co/iHisF7E6Ky"
+            },
+            {
+              "display_url": "pic.x.com/iHisF7E6Ky",
+              "end": 58,
+              "expanded_url": "https://x.com/pyke2076/status/1987084449612534147/photo/1",
+              "media_key": "3_1987084416292978688",
+              "start": 35,
+              "url": "https://t.co/iHisF7E6Ky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987084449612534147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 411,
+          "impression_count": 307831,
+          "like_count": 697,
+          "quote_count": 0,
+          "reply_count": 519,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "救救，快点来个好用还便宜稳定的梯子🪜，我一年用梯子差不多快600块… https://t.co/iHisF7E6Ky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "坐标南通",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 95,
+          "like_count": 1477,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 356
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pyke20777",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pyke20777",
+                "start": 0,
+                "url": "https://t.co/fSga8PLf73"
+              }
+            ]
+          }
+        },
+        "id": "1481172876589821952",
+        "location": "地狱",
+        "name": "bunny",
+        "pinned_tweet_id": "1986713142093918363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8560,
+          "following_count": 1253,
+          "like_count": 62776,
+          "listed_count": 9,
+          "media_count": 2857,
+          "tweet_count": 17094
+        },
+        "url": "https://t.co/fSga8PLf73",
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

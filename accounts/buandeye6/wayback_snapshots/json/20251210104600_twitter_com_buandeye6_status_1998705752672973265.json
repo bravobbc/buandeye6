@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1998697437402178045",
+    "created_at": "2025-12-10T10:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T11:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998705752672973265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821213869001592832",
+          "start": 0,
+          "username": "Arctic0807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998705752672973265",
+    "in_reply_to_user_id": "1821213869001592832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998697437402178045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arctic0807 私信服务我一直无法连接。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1998697437402178045",
+        "created_at": "2025-12-10T10:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998705752672973265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821213869001592832",
+              "start": 0,
+              "username": "Arctic0807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998705752672973265",
+        "in_reply_to_user_id": "1821213869001592832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998697437402178045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arctic0807 私信服务我一直无法连接。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821213869001592832",
+        "conversation_id": "1998697437402178045",
+        "created_at": "2025-12-10T10:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998697437402178045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998697437402178045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私信界面改了好丑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 95,
+          "like_count": 1681,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 422
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T15:57:20.000Z",
+        "description": "06/esfp/我爱吃三文鱼\n🚪520 纯绿 介意勿来",
+        "id": "1821213869001592832",
+        "name": "兔子爱吃三文鱼",
+        "pinned_tweet_id": "1825763249641632211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989308202182426624/lVZkmR_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 66,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 147
+        },
+        "username": "Arctic0807",
+        "verified": false
+      }
+    ]
+  }
+}

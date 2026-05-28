@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2044079945018945539"
+      ]
+    },
+    "author_id": "257243542",
+    "conversation_id": "2044080569559273680",
+    "created_at": "2026-04-14T15:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044080569559273680"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "男喘"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "反差"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "肉棒"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hWTYUix68F",
+          "end": 57,
+          "expanded_url": "https://x.com/buandeye6/status/2044080569559273680/video/1",
+          "media_key": "7_2044079945018945539",
+          "start": 34,
+          "url": "https://t.co/hWTYUix68F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044080569559273680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好久没发手冲，一个人住好看的酒店就拍了一下\n#男喘 #反差 #肉棒 https://t.co/hWTYUix68F"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47040,
+        "height": 720,
+        "media_key": "7_2044079945018945539",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044079945018945539/pu/img/wN3gDTbBH8oxJ_PO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044079945018945539/pu/vid/avc1/480x270/zvynIIw_02sQh7Qq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044079945018945539/pu/vid/avc1/640x360/VK7WcsyfmLqIHIBB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044079945018945539/pu/vid/avc1/1280x720/tl_uYDl4aaxZ1s1S.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044079945018945539/pu/pl/LeNeyHmPLNmfCd25.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044079945018945539"
+          ]
+        },
+        "author_id": "257243542",
+        "conversation_id": "2044080569559273680",
+        "created_at": "2026-04-14T15:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044080569559273680"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "男喘"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "反差"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "肉棒"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWTYUix68F",
+              "end": 57,
+              "expanded_url": "https://x.com/buandeye6/status/2044080569559273680/video/1",
+              "media_key": "7_2044079945018945539",
+              "start": 34,
+              "url": "https://t.co/hWTYUix68F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044080569559273680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没发手冲，一个人住好看的酒店就拍了一下\n#男喘 #反差 #肉棒 https://t.co/hWTYUix68F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 91,
+          "like_count": 2438,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 599
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

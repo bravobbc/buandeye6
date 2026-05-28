@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2053153863075787076",
+    "created_at": "2026-05-09T16:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053155149238219138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618903705172201472",
+          "start": 0,
+          "username": "zxpf123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053155149238219138",
+    "in_reply_to_user_id": "1618903705172201472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053153863075787076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxpf123 你这个执念太深了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2053153863075787076",
+        "created_at": "2026-05-09T16:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053155149238219138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618903705172201472",
+              "start": 0,
+              "username": "zxpf123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053155149238219138",
+        "in_reply_to_user_id": "1618903705172201472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053153863075787076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxpf123 你这个执念太深了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618903705172201472",
+        "conversation_id": "2053153863075787076",
+        "created_at": "2026-05-09T16:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053153863075787076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053153863075787076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么说呢 我承认我对摩羯男有点执念 一样是炮友 酒友哥说我社交平台内容很像t 摩羯男说我像求偶 我也不知道该怎么说 我更喜欢酒友哥的认同感 但是今天这样一对比我有点释然了 可能我们两真的不适合"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 91,
+          "like_count": 2510,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 630
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T09:28:28.000Z",
+        "description": "sub｜唯一联系方式就是本号私信 ｜互关无门 唯一🚪 doi日常488 小@zxpf1234｜无电报推广自辨🪜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "zxpf1234"
+              }
+            ]
+          }
+        },
+        "id": "1618903705172201472",
+        "location": "你心里❤️",
+        "name": "Kiki",
+        "pinned_tweet_id": "1959242075372966112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888570461824614400/ppWdZo4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30111,
+          "following_count": 294,
+          "like_count": 3982,
+          "listed_count": 123,
+          "media_count": 831,
+          "tweet_count": 8934
+        },
+        "username": "zxpf123",
+        "verified": false
+      }
+    ]
+  }
+}

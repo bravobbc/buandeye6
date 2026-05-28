@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1982820622695821793",
+    "created_at": "2025-10-27T14:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T15:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982820948815347886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938827564681990144",
+          "start": 0,
+          "username": "Mioooooouu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982820948815347886",
+    "in_reply_to_user_id": "1938827564681990144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982820622695821793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mioooooouu 这狗真的好长"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982820608455897088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Rk1oRWcAAT83N.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1982820622695821793",
+        "created_at": "2025-10-27T14:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T15:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982820948815347886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938827564681990144",
+              "start": 0,
+              "username": "Mioooooouu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982820948815347886",
+        "in_reply_to_user_id": "1938827564681990144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982820622695821793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mioooooouu 这狗真的好长"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982820608455897088"
+          ]
+        },
+        "author_id": "1938827564681990144",
+        "conversation_id": "1982820622695821793",
+        "created_at": "2025-10-27T14:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T15:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982820622695821793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a6as3WH2wu",
+              "end": 43,
+              "expanded_url": "https://x.com/Mioooooouu/status/1982820622695821793/photo/1",
+              "media_key": "3_1982820608455897088",
+              "start": 20,
+              "url": "https://t.co/a6as3WH2wu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982820622695821793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人夸一下我无敌满意的旋转腊肠狗！ https://t.co/a6as3WH2wu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 99,
+          "like_count": 1351,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 326
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T05:11:48.000Z",
+        "description": "没事发发疯| 请和现实解耦 | 爱信不信 | 会看私信",
+        "id": "1938827564681990144",
+        "name": "醋炒蛋",
+        "pinned_tweet_id": "1951216826794598608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947989169336139776/uhfHj3f3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 9,
+          "like_count": 4,
+          "listed_count": 10,
+          "media_count": 36,
+          "tweet_count": 46
+        },
+        "username": "Mioooooouu",
+        "verified": false
+      }
+    ]
+  }
+}

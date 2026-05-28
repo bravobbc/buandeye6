@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1987196113536114834",
+    "created_at": "2025-11-08T16:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T17:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987201093424848981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1502090225903804421",
+          "start": 0,
+          "username": "j22116132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987201093424848981",
+    "in_reply_to_user_id": "1502090225903804421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987196113536114834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@j22116132 这美甲，手脚并用爽死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987195993126055936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PwOiVbsAAW5Ux.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987195992949784576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5PwOhraAAA0_vr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1987196113536114834",
+        "created_at": "2025-11-08T16:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987201093424848981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1502090225903804421",
+              "start": 0,
+              "username": "j22116132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987201093424848981",
+        "in_reply_to_user_id": "1502090225903804421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987196113536114834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@j22116132 这美甲，手脚并用爽死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987195993126055936",
+            "3_1987195992949784576"
+          ]
+        },
+        "author_id": "1502090225903804421",
+        "conversation_id": "1987196113536114834",
+        "created_at": "2025-11-08T16:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987196113536114834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LXzh71SXIH",
+              "end": 26,
+              "expanded_url": "https://x.com/j22116132/status/1987196113536114834/photo/1",
+              "media_key": "3_1987195993126055936",
+              "start": 3,
+              "url": "https://t.co/LXzh71SXIH"
+            },
+            {
+              "display_url": "pic.x.com/LXzh71SXIH",
+              "end": 26,
+              "expanded_url": "https://x.com/j22116132/status/1987196113536114834/photo/1",
+              "media_key": "3_1987195992949784576",
+              "start": 3,
+              "url": "https://t.co/LXzh71SXIH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987196113536114834",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "♥️ https://t.co/LXzh71SXIH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "坐标南通",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 94,
+          "like_count": 1473,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 355
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-11T01:13:23.000Z",
+        "description": "",
+        "id": "1502090225903804421",
+        "location": "Los Angeles, CA",
+        "name": "海盐芝士藕粉",
+        "pinned_tweet_id": "1737469787851112714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515714995580981249/rqw3wzgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5067,
+          "following_count": 61,
+          "like_count": 576,
+          "listed_count": 30,
+          "media_count": 189,
+          "tweet_count": 640
+        },
+        "username": "j22116132",
+        "verified": false
+      }
+    ]
+  }
+}

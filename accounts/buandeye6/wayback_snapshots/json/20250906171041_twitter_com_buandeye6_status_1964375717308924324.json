@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1936169578843062400",
+    "created_at": "2025-09-06T17:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T18:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964375717308924324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1544287787972628481",
+          "start": 0,
+          "username": "Aurora91425619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964375717308924324",
+    "in_reply_to_user_id": "1544287787972628481",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964368778290221156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aurora91425619 couple game"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1936169578843062400",
+        "created_at": "2025-09-06T17:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T18:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964375717308924324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1544287787972628481",
+              "start": 0,
+              "username": "Aurora91425619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964375717308924324",
+        "in_reply_to_user_id": "1544287787972628481",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964368778290221156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aurora91425619 couple game"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544287787972628481",
+        "conversation_id": "1936169578843062400",
+        "created_at": "2025-09-06T16:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T17:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964368778290221156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "257243542",
+              "start": 0,
+              "username": "buandeye6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964368778290221156",
+        "in_reply_to_user_id": "257243542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936169578843062400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buandeye6 我也想要这个app"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "麦麦在逃炒饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 85,
+          "like_count": 1267,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 308
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T11:51:25.000Z",
+        "description": "我的灵魂比我的皮肤更加柔软",
+        "id": "1544287787972628481",
+        "name": "小狗日记",
+        "pinned_tweet_id": "1911456906176086338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962154873967067136/tPEOEmOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 109,
+          "like_count": 1835,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 451
+        },
+        "username": "Aurora91425619",
+        "verified": false
+      }
+    ]
+  }
+}

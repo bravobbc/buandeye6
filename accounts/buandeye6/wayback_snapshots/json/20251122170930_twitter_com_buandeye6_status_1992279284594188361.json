@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1992279137516769723",
+    "created_at": "2025-11-22T17:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T18:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992279284594188361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1681856096967983104",
+          "start": 0,
+          "username": "OStdvsyjg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992279284594188361",
+    "in_reply_to_user_id": "1681856096967983104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992279137516769723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OStdvsyjg 做个好梦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1992279137516769723",
+        "created_at": "2025-11-22T17:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992279284594188361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1681856096967983104",
+              "start": 0,
+              "username": "OStdvsyjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992279284594188361",
+        "in_reply_to_user_id": "1681856096967983104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992279137516769723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OStdvsyjg 做个好梦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681856096967983104",
+        "conversation_id": "1992279137516769723",
+        "created_at": "2025-11-22T17:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992279137516769723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992279137516769723",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 93,
+          "like_count": 1651,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 400
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T02:38:46.000Z",
+        "description": "幸福是谎言编织的摇篮.",
+        "id": "1681856096967983104",
+        "name": "鱼板",
+        "pinned_tweet_id": "1989764001799315861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982870920277401600/O0NDAvYw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 0,
+          "like_count": 7698,
+          "listed_count": 10,
+          "media_count": 4,
+          "tweet_count": 23
+        },
+        "username": "OStdvsyjg",
+        "verified": false
+      }
+    ]
+  }
+}

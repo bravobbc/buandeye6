@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994351007363629056"
+      ]
+    },
+    "author_id": "257243542",
+    "conversation_id": "1994351031040586180",
+    "created_at": "2025-11-28T10:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T11:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994351031040586180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PzDfKmxY4b",
+          "end": 38,
+          "expanded_url": "https://x.com/buandeye6/status/1994351031040586180/photo/1",
+          "media_key": "3_1994351007363629056",
+          "start": 15,
+          "url": "https://t.co/PzDfKmxY4b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994351031040586180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来连云港加班了，希望明天顺利 https://t.co/PzDfKmxY4b"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994351031040586180].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994351031040586180",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994351031040586180"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_1994351007363629056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61brLdaAAAItK9.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 94,
+          "like_count": 1666,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 410
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

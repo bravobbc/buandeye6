@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2030206793486577881",
+    "created_at": "2026-03-07T08:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T09:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030206793486577881"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030206793486577881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "腰好痛我靠，感觉过年练背把腰肌搞的筋膜炎了，两周多了还是不舒服，今天尝试小重量练一下臀腿看看感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2030206793486577881",
+        "created_at": "2026-03-07T08:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030206793486577881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030206793486577881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "腰好痛我靠，感觉过年练背把腰肌搞的筋膜炎了，两周多了还是不舒服，今天尝试小重量练一下臀腿看看感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 89,
+          "like_count": 2218,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 523
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

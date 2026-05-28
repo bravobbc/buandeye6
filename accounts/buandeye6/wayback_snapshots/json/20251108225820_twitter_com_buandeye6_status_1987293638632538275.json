@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1987293244116640208",
+    "created_at": "2025-11-08T22:58:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T23:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987293638632538275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857746631728439296",
+          "start": 0,
+          "username": "kky1844332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987293638632538275",
+    "in_reply_to_user_id": "1857746631728439296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987293244116640208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kky1844332 上班"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1987293244116640208",
+        "created_at": "2025-11-08T22:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T23:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987293638632538275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857746631728439296",
+              "start": 0,
+              "username": "kky1844332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987293638632538275",
+        "in_reply_to_user_id": "1857746631728439296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987293244116640208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kky1844332 上班"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857746631728439296",
+        "conversation_id": "1987293244116640208",
+        "created_at": "2025-11-08T22:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T23:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987293244116640208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987293244116640208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "认真发问；性瘾除了做理疗和吃药还有别的办法可以治疗吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "坐标南通",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 94,
+          "like_count": 1479,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 357
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T11:24:56.000Z",
+        "description": "ENFP/ddlg/抽象/♒️/",
+        "id": "1857746631728439296",
+        "location": "你隔壁",
+        "name": "yie",
+        "pinned_tweet_id": "1984013695337558072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857747688118509568/-9GX_rV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 51,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 130
+        },
+        "username": "kky1844332",
+        "verified": false
+      }
+    ]
+  }
+}

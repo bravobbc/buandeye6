@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2055227781731193328",
+    "created_at": "2026-05-15T13:23:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:23:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055277912874733714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662638973578260480",
+          "start": 0,
+          "username": "IlunlInulilIil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055277912874733714",
+    "in_reply_to_user_id": "1662638973578260480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055227781731193328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IlunlInulilIil 加上微信可以更方便朝你索取情绪价值哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2055227781731193328",
+        "created_at": "2026-05-15T13:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055277912874733714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662638973578260480",
+              "start": 0,
+              "username": "IlunlInulilIil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055277912874733714",
+        "in_reply_to_user_id": "1662638973578260480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055227781731193328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IlunlInulilIil 加上微信可以更方便朝你索取情绪价值哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662638973578260480",
+        "conversation_id": "2055227781731193328",
+        "created_at": "2026-05-15T10:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055227781731193328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055227781731193328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "网友就是网友 更进一步是想干嘛？我不懂，不管是dating app或是其他，很多人上来就说“这里不常看，加微信吧，可以经常聊天”。\nmo？？？有没有可能我能偶尔分给社媒的时间精力就这么点呢，聊不起来是因为你不看信息吗？是因为我不想跟你聊啊拜托。\n不知道的以为加上微信，你能聊出什么花来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 90,
+          "like_count": 2543,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 644
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T01:56:48.000Z",
+        "description": "不约/平等发言/别关注",
+        "id": "1662638973578260480",
+        "location": "上海",
+        "name": "IlIlilIl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030614924331044864/xIMgxNJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 164,
+          "like_count": 4979,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 201
+        },
+        "username": "IlunlInulilIil",
+        "verified": false
+      }
+    ]
+  }
+}

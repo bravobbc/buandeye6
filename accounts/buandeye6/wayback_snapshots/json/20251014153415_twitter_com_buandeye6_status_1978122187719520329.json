@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978122180899524609"
+      ]
+    },
+    "author_id": "257243542",
+    "conversation_id": "1978114682675151088",
+    "created_at": "2025-10-14T15:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T16:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978122187719520329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618903705172201472",
+          "start": 0,
+          "username": "zxpf123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VB3JcGP05k",
+          "end": 42,
+          "expanded_url": "https://x.com/buandeye6/status/1978122187719520329/photo/1",
+          "media_key": "3_1978122180899524609",
+          "start": 19,
+          "url": "https://t.co/VB3JcGP05k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978122187719520329",
+    "in_reply_to_user_id": "1618903705172201472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978114682675151088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxpf123 第7777个帖子！ https://t.co/VB3JcGP05k"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1978122187719520329].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1978122187719520329",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1978122187719520329"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 318,
+        "media_key": "3_1978122180899524609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3OzpJrWUAE9rFp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618903705172201472",
+        "conversation_id": "1978114682675151088",
+        "created_at": "2025-10-14T15:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978114682675151088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978114682675151088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 380,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无穷鸡翅从小最爱 好久没吃一吃就停不下来 我下次要运更多的无穷鸡翅过来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 91,
+          "like_count": 1301,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 320
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T09:28:28.000Z",
+        "description": "sub｜唯一联系方式就是本号私信 ｜互关无门 唯一🚪 doi日常488 小@zxpf1234｜无电报推广自辨🪜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "zxpf1234"
+              }
+            ]
+          }
+        },
+        "id": "1618903705172201472",
+        "location": "你心里❤️",
+        "name": "Kiki",
+        "pinned_tweet_id": "1959242075372966112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888570461824614400/ppWdZo4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32319,
+          "following_count": 293,
+          "like_count": 3842,
+          "listed_count": 125,
+          "media_count": 709,
+          "tweet_count": 7777
+        },
+        "username": "zxpf123",
+        "verified": false
+      }
+    ]
+  }
+}

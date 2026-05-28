@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1984569998409666839",
+    "created_at": "2025-11-01T13:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T14:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984607110798459271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1317884415872126976",
+          "start": 0,
+          "username": "yinglongzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984607110798459271",
+    "in_reply_to_user_id": "1317884415872126976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984569998409666839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinglongzi 可能是app的问题，我上次用大疆截live到相册也有问题，然后卸载重装了好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1984569998409666839",
+        "created_at": "2025-11-01T13:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T14:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984607110798459271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1317884415872126976",
+              "start": 0,
+              "username": "yinglongzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984607110798459271",
+        "in_reply_to_user_id": "1317884415872126976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984569998409666839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinglongzi 可能是app的问题，我上次用大疆截live到相册也有问题，然后卸载重装了好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1317884415872126976",
+        "conversation_id": "1984569998409666839",
+        "created_at": "2025-11-01T10:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T11:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984569998409666839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984569998409666839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是用影石拍了视频吗  然后很奇怪  前面几秒正常  后面就变成很慢很慢很慢的慢动作  然后我又拍了个一分钟的  又正常  所以是为啥啊  在相机看正常  导到手机看就不正常了  然后我调的1080p  50帧  感觉也没啥啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 100,
+          "like_count": 1407,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 340
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T17:45:17.000Z",
+        "description": "小狗日记 另外 我是神经病  提问https://t.co/WWS6HdnCW6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ggujk",
+                "end": 40,
+                "expanded_url": "https://ngl.link/ggujk",
+                "start": 17,
+                "url": "https://t.co/WWS6HdnCW6"
+              }
+            ]
+          }
+        },
+        "id": "1317884415872126976",
+        "name": "我叫汪汪汪",
+        "pinned_tweet_id": "1970015388860883314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977500183211745280/-8WDRLqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 221,
+          "like_count": 649,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 1529
+        },
+        "username": "yinglongzi",
+        "verified": false
+      }
+    ]
+  }
+}

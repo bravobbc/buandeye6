@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1993715248734593315",
+    "created_at": "2025-11-26T16:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T17:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993715907521339830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1716558740261130240",
+          "start": 0,
+          "username": "huaqian63"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993715907521339830",
+    "in_reply_to_user_id": "1716558740261130240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993715248734593315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaqian63 发啥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1993715248734593315",
+        "created_at": "2025-11-26T16:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993715907521339830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1716558740261130240",
+              "start": 0,
+              "username": "huaqian63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993715907521339830",
+        "in_reply_to_user_id": "1716558740261130240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993715248734593315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaqian63 发啥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716558740261130240",
+        "conversation_id": "1993715248734593315",
+        "created_at": "2025-11-26T16:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993715248734593315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993715248734593315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们赶紧看，马上要删了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 94,
+          "like_count": 1661,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 409
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T20:54:51.000Z",
+        "description": "试过各式各样的男人才能知道最喜欢哪种 总之我都喜欢 -----～",
+        "id": "1716558740261130240",
+        "location": "杭州～",
+        "name": "最爱落地窗",
+        "pinned_tweet_id": "1993336043693916187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745994681488424960/yqH2IC8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18944,
+          "following_count": 132,
+          "like_count": 436,
+          "listed_count": 33,
+          "media_count": 352,
+          "tweet_count": 1246
+        },
+        "username": "huaqian63",
+        "verified": false
+      }
+    ]
+  }
+}

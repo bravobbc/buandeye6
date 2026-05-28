@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1993714326306533488",
+    "created_at": "2025-11-26T16:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T17:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993715430582886742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1896008948978745344",
+          "start": 0,
+          "username": "g7tilf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993715430582886742",
+    "in_reply_to_user_id": "1896008948978745344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993714326306533488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@g7tilf 找人打电话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1993714326306533488",
+        "created_at": "2025-11-26T16:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993715430582886742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1896008948978745344",
+              "start": 0,
+              "username": "g7tilf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993715430582886742",
+        "in_reply_to_user_id": "1896008948978745344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993714326306533488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@g7tilf 找人打电话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896008948978745344",
+        "conversation_id": "1993714326306533488",
+        "created_at": "2025-11-26T16:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993714326306533488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993714326306533488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有内耗的时候转移注意力的好方法。感觉最近快死掉了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 94,
+          "like_count": 1660,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 408
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T01:25:46.000Z",
+        "description": "06 大二",
+        "id": "1896008948978745344",
+        "name": "今天不吃饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990118811958153216/WGDeW5Az_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "g7tilf",
+        "verified": false
+      }
+    ]
+  }
+}

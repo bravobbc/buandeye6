@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1993352387722109169",
+    "created_at": "2025-11-25T16:14:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T17:14:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993352544874381551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1590774572038918144",
+          "start": 0,
+          "username": "gugu3728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993352544874381551",
+    "in_reply_to_user_id": "1590774572038918144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993352387722109169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gugu3728 把我的用了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1993352387722109169",
+        "created_at": "2025-11-25T16:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993352544874381551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1590774572038918144",
+              "start": 0,
+              "username": "gugu3728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993352544874381551",
+        "in_reply_to_user_id": "1590774572038918144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993352387722109169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugu3728 把我的用了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590774572038918144",
+        "conversation_id": "1993352387722109169",
+        "created_at": "2025-11-25T16:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993352387722109169"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "谷事"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SagaKanroo/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/SagaKanroo/status/1992921527478829216",
+              "start": 21,
+              "url": "https://t.co/xnG7tzjTbW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993352387722109169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992921527478829216",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我把谁的127次给用了？来报个到\n#谷事 https://t.co/xnG7tzjTbW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 93,
+          "like_count": 1651,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 405
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T18:33:20.000Z",
+        "description": "记录自己不太正常的性生活\n写的都是真实发生在自己身上的故事\n当然你可以选择不信\n照片和视频完全看心情发\n主要是给自己留作纪念的地方。",
+        "id": "1590774572038918144",
+        "location": "你心里？",
+        "name": "谷谷",
+        "pinned_tweet_id": "1887181270050087318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847297285853794304/h9Hu-Tp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3853,
+          "following_count": 76,
+          "like_count": 63,
+          "listed_count": 12,
+          "media_count": 133,
+          "tweet_count": 1030
+        },
+        "username": "gugu3728",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1991334075999875370",
+    "created_at": "2025-11-20T02:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T03:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991338263802478675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1810569926446567424",
+          "start": 0,
+          "username": "cz_122333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991338263802478675",
+    "in_reply_to_user_id": "1810569926446567424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991334075999875370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cz_122333 好久没吃上翅尖了，落泪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1894,
+        "media_key": "3_1991334065069572096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6KjyBmbQAADMK0.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1991334075999875370",
+        "created_at": "2025-11-20T02:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T03:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991338263802478675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1810569926446567424",
+              "start": 0,
+              "username": "cz_122333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991338263802478675",
+        "in_reply_to_user_id": "1810569926446567424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991334075999875370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cz_122333 好久没吃上翅尖了，落泪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991334065069572096"
+          ]
+        },
+        "author_id": "1810569926446567424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1991334075999875370",
+        "created_at": "2025-11-20T02:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T03:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991334075999875370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e60ydixHUw",
+              "end": 78,
+              "expanded_url": "https://x.com/cz_122333/status/1991334075999875370/photo/1",
+              "media_key": "3_1991334065069572096",
+              "start": 55,
+              "url": "https://t.co/e60ydixHUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991334075999875370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次周四真的得KFC了 心心念念的翅尖终于又出来了 上一次吃感觉都是去年 KFC最爱的产品 蛋挞第二 🤩🤩🤩 https://t.co/e60ydixHUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 92,
+          "like_count": 1594,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 382
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T07:01:39.000Z",
+        "description": "158一小只～喜欢上网碎碎念分享xp～线下不约～不过门槛🚪纯分享玩玩～口口仙人૮₍ᵔ⤙ᵔ₎ა",
+        "id": "1810569926446567424",
+        "name": "嗯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923934074382528512/V-hnpPDp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9176,
+          "following_count": 55,
+          "like_count": 1303,
+          "listed_count": 46,
+          "media_count": 345,
+          "tweet_count": 2959
+        },
+        "username": "cz_122333",
+        "verified": false
+      }
+    ]
+  }
+}

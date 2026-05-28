@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1982123077363179520"
+      ]
+    },
+    "author_id": "257243542",
+    "conversation_id": "1982123114134962533",
+    "created_at": "2025-10-25T16:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T17:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982123114134962533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MEH1xqPx0Y",
+          "end": 30,
+          "expanded_url": "https://x.com/buandeye6/status/1982123114134962533/video/1",
+          "media_key": "7_1982123077363179520",
+          "start": 7,
+          "url": "https://t.co/MEH1xqPx0Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982123114134962533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新视频新角度 https://t.co/MEH1xqPx0Y"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982123114134962533].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982123114134962533",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982123114134962533"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6378,
+        "height": 1280,
+        "media_key": "7_1982123077363179520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1982123077363179520/pu/img/fd86IA3xmXqhY8MA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982123077363179520/pu/vid/avc1/320x568/8c2LRo-5B7w3FREQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982123077363179520/pu/vid/avc1/480x852/fikn1W17U9c0oYyc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1982123077363179520/pu/vid/avc1/720x1280/Bfz7OSqCnZ4mJZJv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1982123077363179520/pu/pl/6Qu5P1BDhLQQZn_n.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 99,
+          "like_count": 1334,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 324
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

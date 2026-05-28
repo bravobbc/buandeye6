@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025813153876213760"
+      ]
+    },
+    "author_id": "257243542",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025813162608751085",
+    "created_at": "2026-02-23T06:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T07:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025813162608751085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hJz0yixeAU",
+          "end": 26,
+          "expanded_url": "https://x.com/buandeye6/status/2025813162608751085/photo/1",
+          "media_key": "3_2025813153876213760",
+          "start": 3,
+          "url": "https://t.co/hJz0yixeAU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025813162608751085",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爽了 https://t.co/hJz0yixeAU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025813162608751085].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025813162608751085",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025813162608751085"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2036,
+        "media_key": "3_2025813153876213760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0iVIobAAA7X1y.jpg",
+        "width": 1258
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 87,
+          "like_count": 2157,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 499
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

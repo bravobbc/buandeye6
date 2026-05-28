@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2052360182206959751",
+    "created_at": "2026-05-07T13:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052384556616208536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867041597722095616",
+          "start": 0,
+          "username": "Kittemeow_tea2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052384556616208536",
+    "in_reply_to_user_id": "1867041597722095616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052360182206959751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kittemeow_tea2s 哈哈哈这种早点删了，下次出来再约火锅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052360175080837120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtytJLaEAAzOEv.jpg",
+        "width": 778
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052360175055683584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtytJFaQAAQLe2.jpg",
+        "width": 764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2052360182206959751",
+        "created_at": "2026-05-07T13:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052384556616208536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867041597722095616",
+              "start": 0,
+              "username": "Kittemeow_tea2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052384556616208536",
+        "in_reply_to_user_id": "1867041597722095616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052360182206959751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kittemeow_tea2s 哈哈哈这种早点删了，下次出来再约火锅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052360175080837120",
+            "3_2052360175055683584"
+          ]
+        },
+        "author_id": "1867041597722095616",
+        "conversation_id": "2052360182206959751",
+        "created_at": "2026-05-07T12:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052360182206959751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ldafJXH201",
+              "end": 88,
+              "expanded_url": "https://x.com/Kittemeow_tea2s/status/2052360182206959751/photo/1",
+              "media_key": "3_2052360175080837120",
+              "start": 65,
+              "url": "https://t.co/ldafJXH201"
+            },
+            {
+              "display_url": "pic.x.com/ldafJXH201",
+              "end": 88,
+              "expanded_url": "https://x.com/Kittemeow_tea2s/status/2052360182206959751/photo/1",
+              "media_key": "3_2052360175055683584",
+              "start": 65,
+              "url": "https://t.co/ldafJXH201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052360182206959751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 692,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以我对所谓“男大”“弟弟”一点好感都没有，总是给人一种整天只会叫姐姐、软饭男的感觉。也许是我太抠门了吧，我只对我喜欢的人大方🫢 https://t.co/ldafJXH201"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 92,
+          "like_count": 2489,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 623
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:59:54.000Z",
+        "description": "负能量发疯/随意拉黑/点赞达人/无🚪不玩⭕️纯发泄/典型摩羯女/喜欢熟男/本人照骗普信毒舌颜控双标狂躁阴暗外耗自私/厌蠢厌猪/实用主义/秩序强迫症/No Zombieing/No ONS/没有告知的义务！",
+        "id": "1867041597722095616",
+        "location": "NanJing",
+        "name": "糯咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921939895846621184/QXi9STnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4066,
+          "following_count": 282,
+          "like_count": 3769,
+          "listed_count": 8,
+          "media_count": 193,
+          "tweet_count": 3799
+        },
+        "username": "Kittemeow_tea2s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1979910653164060848",
+    "created_at": "2025-10-19T15:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T16:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979927555584196659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1221217140805488645",
+          "start": 0,
+          "username": "ha12345xykiop21"
+        },
+        {
+          "end": 30,
+          "id": "1933134495773052928",
+          "start": 17,
+          "username": "1122334455hj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979927555584196659",
+    "in_reply_to_user_id": "1221217140805488645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979918188901974513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ha12345xykiop21 @1122334455hj 南京去年都没下雪，希望今年下吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1979910653164060848",
+        "created_at": "2025-10-19T15:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T16:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979927555584196659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1221217140805488645",
+              "start": 0,
+              "username": "ha12345xykiop21"
+            },
+            {
+              "end": 30,
+              "id": "1933134495773052928",
+              "start": 17,
+              "username": "1122334455hj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979927555584196659",
+        "in_reply_to_user_id": "1221217140805488645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979918188901974513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ha12345xykiop21 @1122334455hj 南京去年都没下雪，希望今年下吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1221217140805488645",
+        "conversation_id": "1979910653164060848",
+        "created_at": "2025-10-19T14:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T15:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979918188901974513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1933134495773052928",
+              "start": 0,
+              "username": "1122334455hj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979918188901974513",
+        "in_reply_to_user_id": "1933134495773052928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979910653164060848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1122334455hj 在北方的朋友跟我说已经下雪了 南京什么时候可以下雪🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 92,
+          "like_count": 1307,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 321
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-25T23:43:58.000Z",
+        "description": "INFP @Xy000812",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "Xy000812"
+              }
+            ]
+          }
+        },
+        "id": "1221217140805488645",
+        "name": "麦门永存",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978894211056291840/Plr8zxHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 462,
+          "listed_count": 10,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "username": "ha12345xykiop21",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T12:09:29.000Z",
+        "description": "是个人机 饭盒https://t.co/M0QXv1Bm1u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "h11223344.fanbox.cc",
+                "end": 30,
+                "expanded_url": "https://h11223344.fanbox.cc/",
+                "start": 7,
+                "url": "https://t.co/M0QXv1Bm1u"
+              }
+            ]
+          }
+        },
+        "id": "1933134495773052928",
+        "location": "有🚪",
+        "name": "知秋",
+        "pinned_tweet_id": "1968605347184066863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937453169480802304/edM_8Sh6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22289,
+          "following_count": 33,
+          "like_count": 188,
+          "listed_count": 26,
+          "media_count": 83,
+          "tweet_count": 190
+        },
+        "username": "1122334455hj",
+        "verified": false
+      }
+    ]
+  }
+}

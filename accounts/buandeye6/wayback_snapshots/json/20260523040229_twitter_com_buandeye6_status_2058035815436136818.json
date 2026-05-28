@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2058018172968870254",
+    "created_at": "2026-05-23T04:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058035815436136818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867041597722095616",
+          "start": 0,
+          "username": "Kittemeow_tea2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058035815436136818",
+    "in_reply_to_user_id": "1867041597722095616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058018172968870254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kittemeow_tea2s 我一直在用舒适达哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1642,
+        "media_key": "3_2058018112113610752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-MkbHaEAAc4wg.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2058018172968870254",
+        "created_at": "2026-05-23T04:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058035815436136818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867041597722095616",
+              "start": 0,
+              "username": "Kittemeow_tea2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058035815436136818",
+        "in_reply_to_user_id": "1867041597722095616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058018172968870254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kittemeow_tea2s 我一直在用舒适达哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058018112113610752"
+          ]
+        },
+        "author_id": "1867041597722095616",
+        "conversation_id": "2058018172968870254",
+        "created_at": "2026-05-23T02:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058018172968870254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5QBdwR00ra",
+              "end": 42,
+              "expanded_url": "https://x.com/Kittemeow_tea2s/status/2058018172968870254/photo/1",
+              "media_key": "3_2058018112113610752",
+              "start": 19,
+              "url": "https://t.co/5QBdwR00ra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058018172968870254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能想到用杂牌子牙膏还能嘴皮子过敏😭 https://t.co/5QBdwR00ra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 91,
+          "like_count": 2581,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 655
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:59:54.000Z",
+        "description": "负能量发疯/随意拉黑/点赞达人/无🚪不玩⭕️纯发泄/典型摩羯女/喜欢熟男/本人照骗普信毒舌颜控双标狂躁阴暗外耗自私/厌蠢厌猪/实用主义/秩序强迫症/No Zombieing/No ONS/没有告知的义务！",
+        "id": "1867041597722095616",
+        "location": "NanJing",
+        "name": "糯咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921939895846621184/QXi9STnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4127,
+          "following_count": 290,
+          "like_count": 3850,
+          "listed_count": 8,
+          "media_count": 203,
+          "tweet_count": 3899
+        },
+        "username": "Kittemeow_tea2s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995168217518743552"
+      ]
+    },
+    "author_id": "257243542",
+    "conversation_id": "1995168220047872035",
+    "created_at": "2025-11-30T16:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T17:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995168220047872035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CAqCejm687",
+          "end": 44,
+          "expanded_url": "https://x.com/buandeye6/status/1995168220047872035/photo/1",
+          "media_key": "3_1995168217518743552",
+          "start": 21,
+          "url": "https://t.co/CAqCejm687"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995168220047872035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 32,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真服了，裤子都脱了，点开91然后。。。 https://t.co/CAqCejm687"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995168220047872035].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995168220047872035",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995168220047872035"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995168217518743552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7BC7EhaoAAl7DA.jpg",
+        "width": 922
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 94,
+          "like_count": 1682,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 415
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

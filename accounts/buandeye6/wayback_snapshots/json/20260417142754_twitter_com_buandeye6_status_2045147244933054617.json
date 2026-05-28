@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2045134751447888103",
+    "created_at": "2026-04-17T14:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045147244933054617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847880476423573504",
+          "start": 0,
+          "username": "yeri22016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045147244933054617",
+    "in_reply_to_user_id": "1847880476423573504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045140530074706061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeri22016 一般来说做力量超过150都算高心率，你很少运动的话，可能是心肺功能比较弱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2045134751447888103",
+        "created_at": "2026-04-17T14:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045147244933054617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847880476423573504",
+              "start": 0,
+              "username": "yeri22016"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045147244933054617",
+        "in_reply_to_user_id": "1847880476423573504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045140530074706061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeri22016 一般来说做力量超过150都算高心率，你很少运动的话，可能是心肺功能比较弱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847880476423573504",
+        "conversation_id": "2045134751447888103",
+        "created_at": "2026-04-17T14:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045140530074706061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "257243542",
+              "start": 0,
+              "username": "buandeye6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045140530074706061",
+        "in_reply_to_user_id": "257243542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045138145583538669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buandeye6 平时没跑步……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 89,
+          "like_count": 2443,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 607
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T06:00:26.000Z",
+        "description": "敏感多疑且无聊 打第五人格叫我 匿名提问↙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeri22016",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yeri22016",
+                "start": 0,
+                "url": "https://t.co/1vJhAryUTe"
+              }
+            ]
+          }
+        },
+        "id": "1847880476423573504",
+        "location": "安徽芜湖",
+        "name": "yeri 小野",
+        "pinned_tweet_id": "1871550262642638984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864348609191268352/7CeB8FP4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 89,
+          "like_count": 171,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/1vJhAryUTe",
+        "username": "yeri22016",
+        "verified": false
+      }
+    ]
+  }
+}

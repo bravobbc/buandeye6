@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2052388065604465059",
+    "created_at": "2026-05-07T14:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052388065604465059"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052388065604465059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "五一去天津胖了四斤，真得碳循环了，碳水渐降还是慢了点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2052388065604465059",
+        "created_at": "2026-05-07T14:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052388065604465059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052388065604465059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五一去天津胖了四斤，真得碳循环了，碳水渐降还是慢了点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 92,
+          "like_count": 2490,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 624
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1982519593290907710",
+    "created_at": "2025-10-27T00:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T01:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982609268215030064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1831646781203267585",
+          "start": 0,
+          "username": "mew_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982609268215030064",
+    "in_reply_to_user_id": "1831646781203267585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982519593290907710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mew_ovo 绑在椅子上，学不完不准走"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 893,
+        "media_key": "3_1982519577939488768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4NTDWNXMAAd-Lu.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1982519593290907710",
+        "created_at": "2025-10-27T00:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T01:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982609268215030064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1831646781203267585",
+              "start": 0,
+              "username": "mew_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982609268215030064",
+        "in_reply_to_user_id": "1831646781203267585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982519593290907710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mew_ovo 绑在椅子上，学不完不准走"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982519577939488768"
+          ]
+        },
+        "author_id": "1831646781203267585",
+        "conversation_id": "1982519593290907710",
+        "created_at": "2025-10-26T18:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T19:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982519593290907710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YFAWdqlQQR",
+              "end": 23,
+              "expanded_url": "https://x.com/mew_ovo/status/1982519593290907710/photo/1",
+              "media_key": "3_1982519577939488768",
+              "start": 0,
+              "url": "https://t.co/YFAWdqlQQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982519593290907710",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YFAWdqlQQR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 99,
+          "like_count": 1343,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 325
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T10:53:26.000Z",
+        "description": "叽里咕噜的说什么呢 给我转两万块钱",
+        "id": "1831646781203267585",
+        "name": "mew",
+        "pinned_tweet_id": "1942147092035862730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910012907108122624/OvXLorVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 0,
+          "like_count": 667,
+          "listed_count": 7,
+          "media_count": 39,
+          "tweet_count": 115
+        },
+        "username": "mew_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

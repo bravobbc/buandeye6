@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1984161760455385415",
+    "created_at": "2025-10-31T08:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T09:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984183497406472403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1867041597722095616",
+          "start": 0,
+          "username": "Kittemeow_ea2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984183497406472403",
+    "in_reply_to_user_id": "1867041597722095616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984162941076422893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kittemeow_ea2s jlc，环宇城，金陵天地都有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1984161760455385415",
+        "created_at": "2025-10-31T08:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T09:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984183497406472403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1867041597722095616",
+              "start": 0,
+              "username": "Kittemeow_ea2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984183497406472403",
+        "in_reply_to_user_id": "1867041597722095616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984162941076422893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kittemeow_ea2s jlc，环宇城，金陵天地都有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867041597722095616",
+        "conversation_id": "1984161760455385415",
+        "created_at": "2025-10-31T07:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T08:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984162941076422893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984162941076422893",
+        "in_reply_to_user_id": "1867041597722095616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984161760455385415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天万圣节不是有活动嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 100,
+          "like_count": 1394,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 337
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:59:54.000Z",
+        "description": "负能量发疯/随意拉黑/无🚪不玩⭕️/不出原味/典型摩羯/喜欢年上/照骗普信毒舌颜控双标狂躁阴暗外耗自私/厌蠢厌猪/No Zombieing/No ONS",
+        "id": "1867041597722095616",
+        "location": "NanJing",
+        "name": "糯咪",
+        "pinned_tweet_id": "1937126755216875780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921939895846621184/QXi9STnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 236,
+          "like_count": 2221,
+          "listed_count": 6,
+          "media_count": 123,
+          "tweet_count": 2498
+        },
+        "username": "Kittemeow_ea2s",
+        "verified": false
+      }
+    ]
+  }
+}

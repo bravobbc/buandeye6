@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2041180993928008103",
+    "created_at": "2026-04-06T15:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041183708099784815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662638973578260480",
+          "start": 0,
+          "username": "IlunlInulilIil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041183708099784815",
+    "in_reply_to_user_id": "1662638973578260480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041180993928008103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IlunlInulilIil 这个场景真的很神，你一点问题都没"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2041180993928008103",
+        "created_at": "2026-04-06T15:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041183708099784815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662638973578260480",
+              "start": 0,
+              "username": "IlunlInulilIil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041183708099784815",
+        "in_reply_to_user_id": "1662638973578260480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041180993928008103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IlunlInulilIil 这个场景真的很神，你一点问题都没"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662638973578260480",
+        "conversation_id": "2041180993928008103",
+        "created_at": "2026-04-06T15:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041180993928008103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041180993928008103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ok昨天的无效社交真的让我很自我怀疑，甚至“朋友”直言觉得是我有问题，导致昨晚失眠。今天跟真正称得上朋友的朋友倾诉这件事，我意识我根本没问题，是昨天那位“朋友”有病🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 94,
+          "like_count": 2379,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 579
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T01:56:48.000Z",
+        "description": "不约/平等发言/别关注",
+        "id": "1662638973578260480",
+        "location": "上海",
+        "name": "IlIlilIl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030614924331044864/xIMgxNJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 163,
+          "like_count": 4902,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 193
+        },
+        "username": "IlunlInulilIil",
+        "verified": false
+      }
+    ]
+  }
+}

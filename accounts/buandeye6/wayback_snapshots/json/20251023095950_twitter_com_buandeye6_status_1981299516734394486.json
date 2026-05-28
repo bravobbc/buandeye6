@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981299510161604608",
+        "3_1981299512132984832",
+        "3_1981299510593654784"
+      ]
+    },
+    "author_id": "257243542",
+    "conversation_id": "1981299516734394486",
+    "created_at": "2025-10-23T09:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T10:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981299516734394486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gFAAflk74k",
+          "end": 39,
+          "expanded_url": "https://x.com/buandeye6/status/1981299516734394486/photo/1",
+          "media_key": "3_1981299510161604608",
+          "start": 16,
+          "url": "https://t.co/gFAAflk74k"
+        },
+        {
+          "display_url": "pic.x.com/gFAAflk74k",
+          "end": 39,
+          "expanded_url": "https://x.com/buandeye6/status/1981299516734394486/photo/1",
+          "media_key": "3_1981299512132984832",
+          "start": 16,
+          "url": "https://t.co/gFAAflk74k"
+        },
+        {
+          "display_url": "pic.x.com/gFAAflk74k",
+          "end": 39,
+          "expanded_url": "https://x.com/buandeye6/status/1981299516734394486/photo/1",
+          "media_key": "3_1981299510593654784",
+          "start": 16,
+          "url": "https://t.co/gFAAflk74k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981299516734394486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上班就靠这些盼头能让自己快乐了 https://t.co/gFAAflk74k"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1981299516734394486].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1981299516734394486",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1981299516734394486"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1137,
+        "media_key": "3_1981299510161604608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G379aDjWgAAzhnO.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1663,
+        "media_key": "3_1981299512132984832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G379aK5XYAAh3Uw.jpg",
+        "width": 1260
+      },
+      {
+        "height": 875,
+        "media_key": "3_1981299510593654784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G379aFKXEAAik6M.jpg",
+        "width": 1260
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 93,
+          "like_count": 1316,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 321
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

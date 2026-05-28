@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961454447948959744",
+        "3_1961454449857368066",
+        "3_1961454446665424896",
+        "3_1961454449681207297"
+      ]
+    },
+    "author_id": "257243542",
+    "conversation_id": "1961454453577711619",
+    "created_at": "2025-08-29T15:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T16:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961454453577711619"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "捆绑"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l1DWqWgINq",
+          "end": 38,
+          "expanded_url": "https://x.com/buandeye6/status/1961454453577711619/photo/1",
+          "media_key": "3_1961454447948959744",
+          "start": 15,
+          "url": "https://t.co/l1DWqWgINq"
+        },
+        {
+          "display_url": "pic.x.com/l1DWqWgINq",
+          "end": 38,
+          "expanded_url": "https://x.com/buandeye6/status/1961454453577711619/photo/1",
+          "media_key": "3_1961454449857368066",
+          "start": 15,
+          "url": "https://t.co/l1DWqWgINq"
+        },
+        {
+          "display_url": "pic.x.com/l1DWqWgINq",
+          "end": 38,
+          "expanded_url": "https://x.com/buandeye6/status/1961454453577711619/photo/1",
+          "media_key": "3_1961454446665424896",
+          "start": 15,
+          "url": "https://t.co/l1DWqWgINq"
+        },
+        {
+          "display_url": "pic.x.com/l1DWqWgINq",
+          "end": 38,
+          "expanded_url": "https://x.com/buandeye6/status/1961454453577711619/photo/1",
+          "media_key": "3_1961454449681207297",
+          "start": 15,
+          "url": "https://t.co/l1DWqWgINq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961454453577711619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老师，你的手在干什么？#捆绑 https://t.co/l1DWqWgINq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1961454453577711619].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1961454453577711619",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1961454453577711619"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1961454447948959744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzh8bZ0bkAALtQq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1961454449857368066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzh8bg7bkAIgUs0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1961454446665424896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzh8bVCaYAA7j-d.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1961454449681207297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzh8bgRbkAEGfiL.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "麦麦在逃炒饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 89,
+          "like_count": 1274,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 305
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

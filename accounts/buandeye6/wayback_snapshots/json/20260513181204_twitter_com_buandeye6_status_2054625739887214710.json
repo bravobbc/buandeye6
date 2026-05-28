@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2054625359837147537",
+    "created_at": "2026-05-13T18:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T19:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054625739887214710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493512521055350784",
+          "start": 0,
+          "username": "hai167726021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054625739887214710",
+    "in_reply_to_user_id": "1493512521055350784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054625359837147537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hai167726021 还不睡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2054625359837147537",
+        "created_at": "2026-05-13T18:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T19:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054625739887214710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493512521055350784",
+              "start": 0,
+              "username": "hai167726021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054625739887214710",
+        "in_reply_to_user_id": "1493512521055350784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054625359837147537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hai167726021 还不睡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493512521055350784",
+        "conversation_id": "2054625359837147537",
+        "created_at": "2026-05-13T18:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T19:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054625359837147537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054625359837147537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的喜欢去哪了？？？？？去哪了！！都是我的最爱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 90,
+          "like_count": 2534,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 640
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T09:08:39.000Z",
+        "description": "想发什么发什么 别关注我！",
+        "id": "1493512521055350784",
+        "name": "blu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950212512823074817/j2fP6VCJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 620,
+          "like_count": 782,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 38
+        },
+        "username": "hai167726021",
+        "verified": false
+      }
+    ]
+  }
+}

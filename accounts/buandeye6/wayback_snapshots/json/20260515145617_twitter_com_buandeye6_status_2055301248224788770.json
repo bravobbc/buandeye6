@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2055289642539458650",
+    "created_at": "2026-05-15T14:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055301248224788770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867041597722095616",
+          "start": 0,
+          "username": "Kittemeow_tea2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055301248224788770",
+    "in_reply_to_user_id": "1867041597722095616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055289642539458650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kittemeow_tea2s 这一大串给我看力竭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1867,
+        "media_key": "3_2055289614219497473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXbA8YaUAESLHj.jpg",
+        "width": 888
+      },
+      {
+        "height": 1848,
+        "media_key": "3_2055289614639013888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXbA98boAAMjSN.jpg",
+        "width": 890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2055289642539458650",
+        "created_at": "2026-05-15T14:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055301248224788770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867041597722095616",
+              "start": 0,
+              "username": "Kittemeow_tea2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055301248224788770",
+        "in_reply_to_user_id": "1867041597722095616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055289642539458650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kittemeow_tea2s 这一大串给我看力竭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055289614219497473",
+            "3_2055289614639013888"
+          ]
+        },
+        "author_id": "1867041597722095616",
+        "conversation_id": "2055289642539458650",
+        "created_at": "2026-05-15T14:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055289642539458650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/905MSbezGW",
+              "end": 157,
+              "expanded_url": "https://x.com/Kittemeow_tea2s/status/2055289642539458650/photo/1",
+              "media_key": "3_2055289614219497473",
+              "start": 134,
+              "url": "https://t.co/905MSbezGW"
+            },
+            {
+              "display_url": "pic.x.com/905MSbezGW",
+              "end": 157,
+              "expanded_url": "https://x.com/Kittemeow_tea2s/status/2055289642539458650/photo/1",
+              "media_key": "3_2055289614639013888",
+              "start": 134,
+              "url": "https://t.co/905MSbezGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055289642539458650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🎵上的一个男的，因为还没见过面在观望所以没有加v，那天找我吃饭我不想吃辣菜可能就默认我拒绝了他，我没察觉不对。今天刷到一个帖还想着和他的职业相关发给他，结果很莫名其妙地发了一堆话，直接拉黑…我不知道是不是我太t人了，我觉得我只是表达了我不太爱吃辣不代表不愿意和他吃。 https://t.co/905MSbezGW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 90,
+          "like_count": 2544,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 645
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:59:54.000Z",
+        "description": "负能量发疯/随意拉黑/点赞达人/无🚪不玩⭕️纯发泄/典型摩羯女/喜欢熟男/本人照骗普信毒舌颜控双标狂躁阴暗外耗自私/厌蠢厌猪/实用主义/秩序强迫症/No Zombieing/No ONS/没有告知的义务！",
+        "id": "1867041597722095616",
+        "location": "NanJing",
+        "name": "糯咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921939895846621184/QXi9STnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4100,
+          "following_count": 286,
+          "like_count": 3803,
+          "listed_count": 8,
+          "media_count": 200,
+          "tweet_count": 3859
+        },
+        "username": "Kittemeow_tea2s",
+        "verified": false
+      }
+    ]
+  }
+}

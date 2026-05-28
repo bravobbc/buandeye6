@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2002365601935995068",
+    "created_at": "2025-12-20T14:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T15:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002388435131064463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1612684656444575744",
+          "start": 0,
+          "username": "paopaotangwei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002388435131064463",
+    "in_reply_to_user_id": "1612684656444575744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002385857198895465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paopaotangwei 我这边还没下，估计得再晚一点才能刮过来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2002365601935995068",
+        "created_at": "2025-12-20T14:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002388435131064463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1612684656444575744",
+              "start": 0,
+              "username": "paopaotangwei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002388435131064463",
+        "in_reply_to_user_id": "1612684656444575744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002385857198895465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paopaotangwei 我这边还没下，估计得再晚一点才能刮过来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612684656444575744",
+        "conversation_id": "2002365601935995068",
+        "created_at": "2025-12-20T14:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002385857198895465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "257243542",
+              "start": 0,
+              "username": "buandeye6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002385857198895465",
+        "in_reply_to_user_id": "257243542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002369061934514454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buandeye6 对的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 99,
+          "like_count": 1744,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 444
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T05:36:17.000Z",
+        "description": "",
+        "id": "1612684656444575744",
+        "location": "南京",
+        "name": "泡泡糖味的🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666085941373734921/A-V-vOlZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 40,
+          "like_count": 143,
+          "listed_count": 12,
+          "media_count": 30,
+          "tweet_count": 57
+        },
+        "username": "paopaotangwei",
+        "verified": false
+      }
+    ]
+  }
+}

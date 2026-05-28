@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999128127000436736"
+      ]
+    },
+    "author_id": "257243542",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1999128132243407188",
+    "created_at": "2025-12-11T14:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T15:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999128132243407188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RQyEu1JMTG",
+          "end": 34,
+          "expanded_url": "https://x.com/buandeye6/status/1999128132243407188/photo/1",
+          "media_key": "3_1999128127000436736",
+          "start": 11,
+          "url": "https://t.co/RQyEu1JMTG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999128132243407188",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "努努力618之前用完 https://t.co/RQyEu1JMTG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999128132243407188].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999128132243407188",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999128132243407188"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999128127000436736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75UcI5aYAAmyAd.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 95,
+          "like_count": 1687,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 424
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

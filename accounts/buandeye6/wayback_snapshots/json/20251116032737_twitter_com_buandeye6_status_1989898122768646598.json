@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1989896251559874688",
+    "created_at": "2025-11-16T03:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T04:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989898122768646598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1856551620013895682",
+          "start": 0,
+          "username": "Yeyechutao_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989898122768646598",
+    "in_reply_to_user_id": "1856551620013895682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989896251559874688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yeyechutao_ 全自动榨汁机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1989896251559874688",
+        "created_at": "2025-11-16T03:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T04:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989898122768646598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1856551620013895682",
+              "start": 0,
+              "username": "Yeyechutao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989898122768646598",
+        "in_reply_to_user_id": "1856551620013895682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989896251559874688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yeyechutao_ 全自动榨汁机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856551620013895682",
+        "conversation_id": "1989896251559874688",
+        "created_at": "2025-11-16T03:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T04:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989896251559874688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989896251559874688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近做太多了……大腿小腿都一直抖\n不能因为我女上厉害，就一直让我动啊😱\n所以，跟我做让男人变成了尸体，我成了全自动飞机杯？😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 93,
+          "like_count": 1555,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 377
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T04:16:23.000Z",
+        "description": "幸福溢出中^_^",
+        "id": "1856551620013895682",
+        "name": "椰椰出逃",
+        "pinned_tweet_id": "1989151953780347080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971594903860977664/cnHTFh0x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2546,
+          "following_count": 23,
+          "like_count": 843,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 1103
+        },
+        "username": "Yeyechutao_",
+        "verified": false
+      }
+    ]
+  }
+}

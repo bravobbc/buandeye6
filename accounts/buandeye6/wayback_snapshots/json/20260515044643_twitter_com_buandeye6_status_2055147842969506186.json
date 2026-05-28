@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2055147842969506186",
+    "created_at": "2026-05-15T04:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055147842969506186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/buandeye6/stat…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/buandeye6/status/2054960611097018620",
+          "start": 141,
+          "url": "https://t.co/8RdAoJnl8E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055147842969506186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054960611097018620",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为这么多年经常睡醒发现自己🐔是硬着的，买新手机的时候，店里送了个监控，前天醒了六次都是硬的，我怀疑我是不是一晚上都是硬的，昨天就把监控架起来了，放在床边录我自己裸睡，今天睡醒查监控，发现我只要是夜里醒来前三分钟都是硬着的，睡深了就没反应，每次做梦快梦醒的时候就会硬，很神奇就是了 https://t.co/8RdAoJnl8E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2055147842969506186",
+        "created_at": "2026-05-15T04:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055147842969506186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/buandeye6/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/buandeye6/status/2054960611097018620",
+              "start": 141,
+              "url": "https://t.co/8RdAoJnl8E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055147842969506186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054960611097018620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为这么多年经常睡醒发现自己🐔是硬着的，买新手机的时候，店里送了个监控，前天醒了六次都是硬的，我怀疑我是不是一晚上都是硬的，昨天就把监控架起来了，放在床边录我自己裸睡，今天睡醒查监控，发现我只要是夜里醒来前三分钟都是硬着的，睡深了就没反应，每次做梦快梦醒的时候就会硬，很神奇就是了 https://t.co/8RdAoJnl8E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2054960611097018620",
+        "created_at": "2026-05-14T16:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054960611097018620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054960611097018620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天干了一件非常猎奇的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 90,
+          "like_count": 2541,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 643
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

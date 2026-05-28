@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2044381535298892184",
+    "created_at": "2026-04-15T15:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T16:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044438626323640678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867041597722095616",
+          "start": 0,
+          "username": "Kittemeow_tea2s"
+        },
+        {
+          "end": 33,
+          "id": "1913186795560607744",
+          "start": 17,
+          "username": "zo5MLozhgp61405"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044438626323640678",
+    "in_reply_to_user_id": "1867041597722095616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044432744969879983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kittemeow_tea2s @zo5MLozhgp61405 还得是去酒店拍，虽然去酒店还得自己撸也很惨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2044381535298892184",
+        "created_at": "2026-04-15T15:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044438626323640678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867041597722095616",
+              "start": 0,
+              "username": "Kittemeow_tea2s"
+            },
+            {
+              "end": 33,
+              "id": "1913186795560607744",
+              "start": 17,
+              "username": "zo5MLozhgp61405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044438626323640678",
+        "in_reply_to_user_id": "1867041597722095616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044432744969879983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kittemeow_tea2s @zo5MLozhgp61405 还得是去酒店拍，虽然去酒店还得自己撸也很惨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867041597722095616",
+        "conversation_id": "2044381535298892184",
+        "created_at": "2026-04-15T15:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044432744969879983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1913186795560607744",
+              "start": 0,
+              "username": "zo5MLozhgp61405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044432744969879983",
+        "in_reply_to_user_id": "1913186795560607744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044381535298892184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zo5MLozhgp61405 还有破破的马桶和镜子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 91,
+          "like_count": 2441,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 602
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:59:54.000Z",
+        "description": "负能量发疯/随意拉黑/点赞达人/无🚪不玩⭕️纯发泄/典型摩羯女/喜欢熟男/本人照骗普信毒舌颜控双标狂躁阴暗外耗自私/厌蠢厌猪/实用主义/秩序强迫症/No Zombieing/No ONS/没有告知的义务！",
+        "id": "1867041597722095616",
+        "location": "NanJing",
+        "name": "糯咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921939895846621184/QXi9STnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3767,
+          "following_count": 262,
+          "like_count": 3604,
+          "listed_count": 5,
+          "media_count": 186,
+          "tweet_count": 3691
+        },
+        "username": "Kittemeow_tea2s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T11:04:25.000Z",
+        "description": "我是一颗美丽的四季豆，我金贵，我自由，我寡淡，我油盐不进，我不随便跟人说话，我也不理人，我没有媚男的义务，没有看你们脸色的义务，我喜欢我自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%8A%B9%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%8A%B9%E8%8C%B610498",
+                "start": 0,
+                "url": "https://t.co/sYKN6YG3yp"
+              }
+            ]
+          }
+        },
+        "id": "1913186795560607744",
+        "name": "抹茶重度爱好者",
+        "pinned_tweet_id": "2036777748254040444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036089276451192832/0MvXvljX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 101,
+          "like_count": 4189,
+          "listed_count": 3,
+          "media_count": 602,
+          "tweet_count": 6122
+        },
+        "url": "https://t.co/sYKN6YG3yp",
+        "username": "zo5MLozhgp61405",
+        "verified": false
+      }
+    ]
+  }
+}

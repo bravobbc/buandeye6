@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2041788406292783417",
+    "created_at": "2026-04-08T13:21:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:21:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041869053846024206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867041597722095616",
+          "start": 0,
+          "username": "Kittemeow_tea2s"
+        },
+        {
+          "end": 25,
+          "id": "1828761763757817856",
+          "start": 17,
+          "username": "ceiccci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041869053846024206",
+    "in_reply_to_user_id": "1867041597722095616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041853557348167963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kittemeow_tea2s @ceiccci 这居然还要抢票么 靠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2041788406292783417",
+        "created_at": "2026-04-08T13:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041869053846024206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867041597722095616",
+              "start": 0,
+              "username": "Kittemeow_tea2s"
+            },
+            {
+              "end": 25,
+              "id": "1828761763757817856",
+              "start": 17,
+              "username": "ceiccci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041869053846024206",
+        "in_reply_to_user_id": "1867041597722095616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041853557348167963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kittemeow_tea2s @ceiccci 这居然还要抢票么 靠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867041597722095616",
+        "conversation_id": "2041788406292783417",
+        "created_at": "2026-04-08T12:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041853557348167963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1828761763757817856",
+              "start": 0,
+              "username": "ceiccci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041853557348167963",
+        "in_reply_to_user_id": "1828761763757817856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041788406292783417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceiccci 抢不到票"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 93,
+          "like_count": 2408,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 586
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:59:54.000Z",
+        "description": "负能量发疯/随意拉黑/点赞达人/无🚪不玩⭕️纯发泄/典型摩羯女/喜欢熟男/本人照骗普信毒舌颜控双标狂躁阴暗外耗自私/厌蠢厌猪/实用主义/秩序强迫症/No Zombieing/No ONS/没有告知的义务！",
+        "id": "1867041597722095616",
+        "location": "NanJing",
+        "name": "糯咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921939895846621184/QXi9STnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3735,
+          "following_count": 257,
+          "like_count": 3452,
+          "listed_count": 7,
+          "media_count": 187,
+          "tweet_count": 3592
+        },
+        "username": "Kittemeow_tea2s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T11:49:25.000Z",
+        "description": "170 43 情绪宣泄地",
+        "id": "1828761763757817856",
+        "name": "鸡蛋小葱",
+        "pinned_tweet_id": "1991154375914557786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828762165970677760/0g__ITOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 1,
+          "like_count": 22,
+          "listed_count": 10,
+          "media_count": 96,
+          "tweet_count": 747
+        },
+        "username": "ceiccci",
+        "verified": false
+      }
+    ]
+  }
+}

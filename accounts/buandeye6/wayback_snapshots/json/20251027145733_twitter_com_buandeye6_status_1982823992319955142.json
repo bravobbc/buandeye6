@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1982822907551322507",
+    "created_at": "2025-10-27T14:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T15:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982823992319955142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1493512521055350784",
+          "start": 0,
+          "username": "hai167726021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982823992319955142",
+    "in_reply_to_user_id": "1493512521055350784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982822907551322507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hai167726021 爱看谁的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1982822907551322507",
+        "created_at": "2025-10-27T14:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T15:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982823992319955142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1493512521055350784",
+              "start": 0,
+              "username": "hai167726021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982823992319955142",
+        "in_reply_to_user_id": "1493512521055350784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982822907551322507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hai167726021 爱看谁的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493512521055350784",
+        "conversation_id": "1982822907551322507",
+        "created_at": "2025-10-27T14:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T15:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982822907551322507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982822907551322507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是小几把能不能别一上来就发图 我真不爱看🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 99,
+          "like_count": 1353,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 327
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T09:08:39.000Z",
+        "description": "想发什么发什么 别关注我！",
+        "id": "1493512521055350784",
+        "name": "blu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950212512823074817/j2fP6VCJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2259,
+          "following_count": 656,
+          "like_count": 775,
+          "listed_count": 6,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "username": "hai167726021",
+        "verified": false
+      }
+    ]
+  }
+}

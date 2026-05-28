@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2019680795355709696",
+    "created_at": "2026-02-06T09:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T10:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019703212245442748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618903705172201472",
+          "start": 0,
+          "username": "zxpf123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019703212245442748",
+    "in_reply_to_user_id": "1618903705172201472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019691424766460147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxpf123 我也喜欢问。。就是好奇吧。。还有包含一部分也很想约你的意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2019680795355709696",
+        "created_at": "2026-02-06T09:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019703212245442748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618903705172201472",
+              "start": 0,
+              "username": "zxpf123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019703212245442748",
+        "in_reply_to_user_id": "1618903705172201472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019691424766460147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxpf123 我也喜欢问。。就是好奇吧。。还有包含一部分也很想约你的意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618903705172201472",
+        "conversation_id": "2019680795355709696",
+        "created_at": "2026-02-06T08:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019691424766460147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019691424766460147",
+        "in_reply_to_user_id": "1618903705172201472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019680795355709696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个男的老主动问自己的固炮“最近的新欢质量怎么样”是什么心理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 89,
+          "like_count": 2115,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 501
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T09:28:28.000Z",
+        "description": "sub｜唯一联系方式就是本号私信 ｜互关无门 唯一🚪 doi日常488 小@zxpf1234｜无电报推广自辨🪜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "zxpf1234"
+              }
+            ]
+          }
+        },
+        "id": "1618903705172201472",
+        "location": "你心里❤️",
+        "name": "Kiki",
+        "pinned_tweet_id": "1959242075372966112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888570461824614400/ppWdZo4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30899,
+          "following_count": 303,
+          "like_count": 3934,
+          "listed_count": 117,
+          "media_count": 788,
+          "tweet_count": 8549
+        },
+        "username": "zxpf123",
+        "verified": false
+      }
+    ]
+  }
+}

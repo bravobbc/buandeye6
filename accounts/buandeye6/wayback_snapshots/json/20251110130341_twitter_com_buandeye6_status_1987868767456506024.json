@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1987864533579509860",
+    "created_at": "2025-11-10T13:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T14:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987868767456506024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1502090225903804421",
+          "start": 0,
+          "username": "j22116132"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987868767456506024",
+    "in_reply_to_user_id": "1502090225903804421",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987864533579509860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@j22116132 哈哈哈哈太颠了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1987864533579509860",
+        "created_at": "2025-11-10T13:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987868767456506024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1502090225903804421",
+              "start": 0,
+              "username": "j22116132"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987868767456506024",
+        "in_reply_to_user_id": "1502090225903804421",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987864533579509860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@j22116132 哈哈哈哈太颠了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502090225903804421",
+        "conversation_id": "1987864533579509860",
+        "created_at": "2025-11-10T12:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987864533579509860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987864533579509860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界真的好癫 竟然有约女生出来吃饭 带束花 然后让女生付钱买套餐说回头转 结果说高速费接送费停车费花的钱也要a一下 一直说给我转钱了 结果打开抖音刷几下说看看有没有什么赚钱的方法 这种绝世奇葩怎么被我遇到了🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 93,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 362
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-11T01:13:23.000Z",
+        "description": "",
+        "id": "1502090225903804421",
+        "location": "Los Angeles, CA",
+        "name": "海盐芝士藕粉",
+        "pinned_tweet_id": "1737469787851112714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515714995580981249/rqw3wzgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5069,
+          "following_count": 61,
+          "like_count": 584,
+          "listed_count": 30,
+          "media_count": 189,
+          "tweet_count": 641
+        },
+        "username": "j22116132",
+        "verified": false
+      }
+    ]
+  }
+}

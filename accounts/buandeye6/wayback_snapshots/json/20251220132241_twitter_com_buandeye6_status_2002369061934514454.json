@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2002365601935995068",
+    "created_at": "2025-12-20T13:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T14:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002369061934514454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1612684656444575744",
+          "start": 0,
+          "username": "paopaotangwei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002369061934514454",
+    "in_reply_to_user_id": "1612684656444575744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002365601935995068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paopaotangwei 下雨了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2002365601935995068",
+        "created_at": "2025-12-20T13:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T14:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002369061934514454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1612684656444575744",
+              "start": 0,
+              "username": "paopaotangwei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002369061934514454",
+        "in_reply_to_user_id": "1612684656444575744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002365601935995068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paopaotangwei 下雨了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612684656444575744",
+        "conversation_id": "2002365601935995068",
+        "created_at": "2025-12-20T13:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T14:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002365601935995068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002365601935995068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来今晚想找个嘉宾一起开房睡    家里太吵了   结果刚出门  外面狂风大雨的  吓回家了😑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 99,
+          "like_count": 1744,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 442
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T05:36:17.000Z",
+        "description": "",
+        "id": "1612684656444575744",
+        "location": "南京",
+        "name": "泡泡糖味的🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666085941373734921/A-V-vOlZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 40,
+          "like_count": 143,
+          "listed_count": 12,
+          "media_count": 30,
+          "tweet_count": 56
+        },
+        "username": "paopaotangwei",
+        "verified": false
+      }
+    ]
+  }
+}

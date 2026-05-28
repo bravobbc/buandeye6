@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2038291083877314980",
+    "created_at": "2026-03-29T23:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T00:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038401696754471404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867041597722095616",
+          "start": 0,
+          "username": "Kittemeow_tea2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038401696754471404",
+    "in_reply_to_user_id": "1867041597722095616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038291083877314980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kittemeow_tea2s 靠，我去搜了一下瑜伽球是怎么练的，确实是纯擦了，起不到锻炼作用，你想练盆底肌，凯格尔运动＋腹式呼吸的死虫式就够了，练的时候注意骨盆不要前倾就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2038291083877314980",
+        "created_at": "2026-03-29T23:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038401696754471404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867041597722095616",
+              "start": 0,
+              "username": "Kittemeow_tea2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038401696754471404",
+        "in_reply_to_user_id": "1867041597722095616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038291083877314980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kittemeow_tea2s 靠，我去搜了一下瑜伽球是怎么练的，确实是纯擦了，起不到锻炼作用，你想练盆底肌，凯格尔运动＋腹式呼吸的死虫式就够了，练的时候注意骨盆不要前倾就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867041597722095616",
+        "conversation_id": "2038291083877314980",
+        "created_at": "2026-03-29T16:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038291083877314980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038291083877314980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 491,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "b站刷到瑜伽球擦边女主播锻炼盆底肌，于是自己也买了一个，是我坐的不对吗？这和揉b有啥区别🫠…都快把自己揉湿了😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 92,
+          "like_count": 2316,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 555
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:59:54.000Z",
+        "description": "负能量发疯/随意拉黑/无🚪不玩⭕️/不出原味/典型摩羯/喜欢年上/本人照骗普信毒舌颜控双标狂躁阴暗外耗自私/厌蠢厌猪/实用主义/No Zombieing/No ONS/没有告知的义务！",
+        "id": "1867041597722095616",
+        "location": "NanJing",
+        "name": "糯咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921939895846621184/QXi9STnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3677,
+          "following_count": 253,
+          "like_count": 3276,
+          "listed_count": 7,
+          "media_count": 182,
+          "tweet_count": 3480
+        },
+        "username": "Kittemeow_tea2s",
+        "verified": false
+      }
+    ]
+  }
+}

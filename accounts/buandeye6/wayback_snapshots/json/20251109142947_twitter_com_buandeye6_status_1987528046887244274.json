@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1987505446585012638",
+    "created_at": "2025-11-09T14:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T15:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987528046887244274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1872836447792971778",
+          "start": 0,
+          "username": "WQ8O8H5TcP95081"
+        },
+        {
+          "end": 24,
+          "id": "2574949657",
+          "start": 17,
+          "username": "0lJUl7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987528046887244274",
+    "in_reply_to_user_id": "1872836447792971778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987527653260456095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WQ8O8H5TcP95081 @0lJUl7 还没找到合适的么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1987505446585012638",
+        "created_at": "2025-11-09T14:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T15:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987528046887244274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1872836447792971778",
+              "start": 0,
+              "username": "WQ8O8H5TcP95081"
+            },
+            {
+              "end": 24,
+              "id": "2574949657",
+              "start": 17,
+              "username": "0lJUl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987528046887244274",
+        "in_reply_to_user_id": "1872836447792971778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987527653260456095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WQ8O8H5TcP95081 @0lJUl7 还没找到合适的么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872836447792971778",
+        "conversation_id": "1987505446585012638",
+        "created_at": "2025-11-09T14:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T15:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987527653260456095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2574949657",
+              "start": 0,
+              "username": "0lJUl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987527653260456095",
+        "in_reply_to_user_id": "2574949657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987505446585012638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0lJUl7 22南通"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 94,
+          "like_count": 1489,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 359
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T02:46:38.000Z",
+        "description": "",
+        "id": "1872836447792971778",
+        "location": "江苏",
+        "name": "吃炸鸡废可乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969258544286584832/TjXldZSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "WQ8O8H5TcP95081",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-18T14:14:49.000Z",
+        "description": "希望大家能在X上开心快乐的冲浪·晚上一定要大头控制小头！不要上当受骗！",
+        "id": "2574949657",
+        "name": "一路向西",
+        "pinned_tweet_id": "1959323141953744985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968320783941591040/Cwt232bO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16283,
+          "following_count": 14155,
+          "like_count": 1406,
+          "listed_count": 4,
+          "media_count": 0,
+          "tweet_count": 4751
+        },
+        "username": "0lJUl7",
+        "verified": false
+      }
+    ]
+  }
+}

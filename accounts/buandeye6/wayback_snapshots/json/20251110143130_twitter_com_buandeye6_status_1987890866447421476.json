@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1987888327811539211",
+    "created_at": "2025-11-10T14:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T15:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987890866447421476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766703233282846720",
+          "start": 0,
+          "username": "Cathybaby723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987890866447421476",
+    "in_reply_to_user_id": "1766703233282846720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 27,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987888327811539211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cathybaby723 嘿嘿，还发帖夸我么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1987888327811539211",
+        "created_at": "2025-11-10T14:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987890866447421476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766703233282846720",
+              "start": 0,
+              "username": "Cathybaby723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987890866447421476",
+        "in_reply_to_user_id": "1766703233282846720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987888327811539211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cathybaby723 嘿嘿，还发帖夸我么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766703233282846720",
+        "conversation_id": "1987888327811539211",
+        "created_at": "2025-11-10T14:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987888327811539211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987888327811539211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 508,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的粉丝用大疆拍jb发给我看，好设备拍出来的屌还是挺不一样的哈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 93,
+          "like_count": 1505,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 367
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T05:51:07.000Z",
+        "description": "反差女博士，温柔又犀利，喜欢在科研和色色之间随心切换，看你想解锁哪一面，每天分享日常和观点，主打真诚和反差❤️（私信太多，不得不筛过🚪）A real person is studying for a female doctor. 防走丢小号：@Cathybaby723o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 121,
+                "username": "Cathybaby723o"
+              }
+            ]
+          }
+        },
+        "id": "1766703233282846720",
+        "location": "New York, NY",
+        "name": "Cathy Doctor",
+        "pinned_tweet_id": "1897196708100239535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771840020581933056/cnI8FIWS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21903,
+          "following_count": 58,
+          "like_count": 7107,
+          "listed_count": 26,
+          "media_count": 333,
+          "tweet_count": 4618
+        },
+        "username": "Cathybaby723",
+        "verified": false
+      }
+    ]
+  }
+}

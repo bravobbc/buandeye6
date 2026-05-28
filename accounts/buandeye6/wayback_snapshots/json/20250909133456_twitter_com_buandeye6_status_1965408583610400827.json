@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1965381097526800746",
+    "created_at": "2025-09-09T13:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T14:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965408583610400827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1357123381712195584",
+          "start": 0,
+          "username": "sberrybambi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965408583610400827",
+    "in_reply_to_user_id": "1357123381712195584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965381097526800746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sberrybambi_ 你加油呀老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1965381097526800746",
+        "created_at": "2025-09-09T13:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T14:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965408583610400827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1357123381712195584",
+              "start": 0,
+              "username": "sberrybambi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965408583610400827",
+        "in_reply_to_user_id": "1357123381712195584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965381097526800746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sberrybambi_ 你加油呀老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357123381712195584",
+        "conversation_id": "1965381097526800746",
+        "created_at": "2025-09-09T11:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965381097526800746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965381097526800746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bushi 你们怎么都吃上了 \n好家伙 就我一个人在推特上抽象是吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "麦麦在逃炒饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 83,
+          "like_count": 1269,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 313
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T00:26:49.000Z",
+        "description": "🖤♡ ₊˚ 小女孩日记 ₊˚ ♡🖤",
+        "id": "1357123381712195584",
+        "name": "🦦",
+        "pinned_tweet_id": "1952750564510466155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928635307886575616/m1aTZYXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13973,
+          "following_count": 207,
+          "like_count": 28854,
+          "listed_count": 13,
+          "media_count": 54,
+          "tweet_count": 4375
+        },
+        "username": "sberrybambi_",
+        "verified": false
+      }
+    ]
+  }
+}

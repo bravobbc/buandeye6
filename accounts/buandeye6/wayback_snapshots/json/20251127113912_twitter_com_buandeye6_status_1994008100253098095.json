@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "1993964073055326683",
+    "created_at": "2025-11-27T11:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T12:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994008100253098095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857746631728439296",
+          "start": 0,
+          "username": "kky1844332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994008100253098095",
+    "in_reply_to_user_id": "1857746631728439296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993964073055326683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kky1844332 这么颠么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_1993964066168299520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6v7wPLa4AAI9xB.jpg",
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "1993964073055326683",
+        "created_at": "2025-11-27T11:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T12:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994008100253098095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857746631728439296",
+              "start": 0,
+              "username": "kky1844332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994008100253098095",
+        "in_reply_to_user_id": "1857746631728439296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993964073055326683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kky1844332 这么颠么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993964066168299520"
+          ]
+        },
+        "author_id": "1857746631728439296",
+        "conversation_id": "1993964073055326683",
+        "created_at": "2025-11-27T08:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993964073055326683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxuaA81qRu",
+              "end": 23,
+              "expanded_url": "https://x.com/kky1844332/status/1993964073055326683/photo/1",
+              "media_key": "3_1993964066168299520",
+              "start": 0,
+              "url": "https://t.co/zxuaA81qRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993964073055326683",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zxuaA81qRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 94,
+          "like_count": 1664,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 409
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T11:24:56.000Z",
+        "description": "ENFP/ddlg/抽象/♒️/",
+        "id": "1857746631728439296",
+        "name": "yie",
+        "pinned_tweet_id": "1984013695337558072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857747688118509568/-9GX_rV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 55,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 232
+        },
+        "username": "kky1844332",
+        "verified": false
+      }
+    ]
+  }
+}

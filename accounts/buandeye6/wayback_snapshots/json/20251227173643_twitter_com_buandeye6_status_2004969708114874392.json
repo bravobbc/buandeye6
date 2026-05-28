@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2004968941349994908",
+    "created_at": "2025-12-27T17:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T18:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004969708114874392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857746631728439296",
+          "start": 0,
+          "username": "kky1844332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004969708114874392",
+    "in_reply_to_user_id": "1857746631728439296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004968941349994908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kky1844332 咋了呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004968925285560320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9MUnWFXsAAA1KB.jpg",
+        "width": 898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2004968941349994908",
+        "created_at": "2025-12-27T17:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T18:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004969708114874392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857746631728439296",
+              "start": 0,
+              "username": "kky1844332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004969708114874392",
+        "in_reply_to_user_id": "1857746631728439296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004968941349994908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kky1844332 咋了呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004968925285560320"
+          ]
+        },
+        "author_id": "1857746631728439296",
+        "conversation_id": "2004968941349994908",
+        "created_at": "2025-12-27T17:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T18:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004968941349994908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHvGKzycqs",
+              "end": 61,
+              "expanded_url": "https://x.com/kky1844332/status/2004968941349994908/photo/1",
+              "media_key": "3_2004968925285560320",
+              "start": 38,
+              "url": "https://t.co/jHvGKzycqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004968941349994908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果人的最低处都是一样的话，那我不想去认识更多的人了。世界好无趣，人也是。 https://t.co/jHvGKzycqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 104,
+          "like_count": 1835,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 455
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T11:24:56.000Z",
+        "description": "ENFP/ddlg/抽象/♒️/",
+        "id": "1857746631728439296",
+        "name": "yie",
+        "pinned_tweet_id": "1984013695337558072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857747688118509568/-9GX_rV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 57,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 239
+        },
+        "username": "kky1844332",
+        "verified": false
+      }
+    ]
+  }
+}

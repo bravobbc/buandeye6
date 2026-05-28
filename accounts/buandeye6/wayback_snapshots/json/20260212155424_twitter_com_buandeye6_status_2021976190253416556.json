@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2021550736438620592",
+    "created_at": "2026-02-12T15:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T16:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021976190253416556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2304104049",
+          "start": 0,
+          "username": "Oho17H"
+        },
+        {
+          "end": 20,
+          "id": "1966023688006078464",
+          "start": 8,
+          "username": "callme_mom_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021976190253416556",
+    "in_reply_to_user_id": "2304104049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021964576519287137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oho17H @callme_mom_ 异维a酸好用，我一周3颗吃了好几年，一次都不长痘了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2021550736438620592",
+        "created_at": "2026-02-12T15:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021976190253416556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2304104049",
+              "start": 0,
+              "username": "Oho17H"
+            },
+            {
+              "end": 20,
+              "id": "1966023688006078464",
+              "start": 8,
+              "username": "callme_mom_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021976190253416556",
+        "in_reply_to_user_id": "2304104049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021964576519287137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oho17H @callme_mom_ 异维a酸好用，我一周3颗吃了好几年，一次都不长痘了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2304104049",
+        "conversation_id": "2021550736438620592",
+        "created_at": "2026-02-12T15:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021964576519287137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1966023688006078464",
+              "start": 0,
+              "username": "callme_mom_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021964576519287137",
+        "in_reply_to_user_id": "1966023688006078464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021550736438620592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@callme_mom_ 这玩意儿说实话也不咋管用的，因为它的效果只是见杆立影，先刷酸针清完，认真护肤加吃干净，长期长痘痘完全就是内分泌，身体炎症还有就是吃东西没有吃清淡导致的，吃清淡一点，调节一下内分泌，早点休息，多吃点蔬菜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 90,
+          "like_count": 2116,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 506
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-25T19:11:03.000Z",
+        "description": "一切随缘 。",
+        "id": "2304104049",
+        "name": "兔子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947703992823517184/OsHH6gOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4743,
+          "following_count": 223,
+          "like_count": 394,
+          "listed_count": 32,
+          "media_count": 233,
+          "tweet_count": 548
+        },
+        "username": "Oho17H",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T06:19:22.000Z",
+        "description": "审美积累账号",
+        "id": "1966023688006078464",
+        "name": "豆比",
+        "pinned_tweet_id": "2014700169649131645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000933845299027972/G-KQIvi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 42,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 296
+        },
+        "username": "callme_mom_",
+        "verified": false
+      }
+    ]
+  }
+}
