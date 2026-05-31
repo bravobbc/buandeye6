@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2059943411151511835",
+    "created_at": "2026-05-28T10:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059943795731603728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754873374508023809",
+          "start": 0,
+          "username": "Momo155729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059943795731603728",
+    "in_reply_to_user_id": "1754873374508023809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059943411151511835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Momo155729 裤裆痒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2059943411151511835",
+        "created_at": "2026-05-28T10:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059943795731603728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754873374508023809",
+              "start": 0,
+              "username": "Momo155729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059943795731603728",
+        "in_reply_to_user_id": "1754873374508023809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059943411151511835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Momo155729 裤裆痒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754873374508023809",
+        "conversation_id": "2059943411151511835",
+        "created_at": "2026-05-28T10:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059943411151511835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059943411151511835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咨询了前前任一个问题，结果他说周末飞来请我吃饭\n何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 90,
+          "like_count": 2614,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 661
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T14:23:29.000Z",
+        "description": "这是我胡说八道的地方。有门🚪啊！没空免费陪聊",
+        "id": "1754873374508023809",
+        "location": "520🚪",
+        "name": "奶桃子🍑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784174190448513024/kYxDfPpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6390,
+          "following_count": 168,
+          "like_count": 693,
+          "listed_count": 11,
+          "media_count": 83,
+          "tweet_count": 631
+        },
+        "username": "Momo155729",
+        "verified": false
+      }
+    ]
+  }
+}
