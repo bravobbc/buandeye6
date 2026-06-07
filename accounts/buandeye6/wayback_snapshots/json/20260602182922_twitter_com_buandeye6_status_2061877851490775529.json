@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2061870415786705032",
+    "created_at": "2026-06-02T18:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T19:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061877851490775529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618903705172201472",
+          "start": 0,
+          "username": "zxpf123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061877851490775529",
+    "in_reply_to_user_id": "1618903705172201472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061870415786705032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxpf123 哈哈哈哈哈，互联网crush"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2061870415786705032",
+        "created_at": "2026-06-02T18:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061877851490775529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618903705172201472",
+              "start": 0,
+              "username": "zxpf123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061877851490775529",
+        "in_reply_to_user_id": "1618903705172201472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061870415786705032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxpf123 哈哈哈哈哈，互联网crush"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618903705172201472",
+        "conversation_id": "2061870415786705032",
+        "created_at": "2026-06-02T17:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061870415786705032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061870415786705032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些人的号 关注列表2里面是我还有另一个系统账号的 我他妈都怀疑你是不是故意的我是你的crush吗我请问"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 89,
+          "like_count": 2636,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 670
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T09:28:28.000Z",
+        "description": "sub｜唯一联系方式就是本号私信 ｜互关无门 唯一🚪 doi日常488 小@zxpf1234｜无电报推广自辨🪜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "zxpf1234"
+              }
+            ]
+          }
+        },
+        "id": "1618903705172201472",
+        "location": "你心里❤️",
+        "name": "Kiki",
+        "pinned_tweet_id": "1959242075372966112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888570461824614400/ppWdZo4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29977,
+          "following_count": 298,
+          "like_count": 4024,
+          "listed_count": 121,
+          "media_count": 833,
+          "tweet_count": 9034
+        },
+        "username": "zxpf123",
+        "verified": false
+      }
+    ]
+  }
+}

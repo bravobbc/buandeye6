@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061313139585818624"
+      ]
+    },
+    "author_id": "257243542",
+    "conversation_id": "2061313141666156601",
+    "created_at": "2026-06-01T05:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061313141666156601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hLpSoKdyn8",
+          "end": 48,
+          "expanded_url": "https://x.com/buandeye6/status/2061313141666156601/photo/1",
+          "media_key": "3_2061313139585818624",
+          "start": 25,
+          "url": "https://t.co/hLpSoKdyn8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061313141666156601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "熬夜到三点睡醒再喝两口浓缩美式去健身，皮质醇爆炸 https://t.co/hLpSoKdyn8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061313141666156601].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061313141666156601",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061313141666156601"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1844,
+        "media_key": "3_2061313139585818624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtBYQ_boAAXxA_.jpg",
+        "width": 1260
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 91,
+          "like_count": 2627,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 666
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

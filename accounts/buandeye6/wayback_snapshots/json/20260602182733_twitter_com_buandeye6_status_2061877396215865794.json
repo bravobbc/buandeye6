@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2061872790891122751",
+    "created_at": "2026-06-02T18:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T19:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061877396215865794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1963991898827440128",
+          "start": 0,
+          "username": "keke917661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061877396215865794",
+    "in_reply_to_user_id": "1963991898827440128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061872790891122751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keke917661 会看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2061872790891122751",
+        "created_at": "2026-06-02T18:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061877396215865794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1963991898827440128",
+              "start": 0,
+              "username": "keke917661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061877396215865794",
+        "in_reply_to_user_id": "1963991898827440128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061872790891122751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keke917661 会看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963991898827440128",
+        "conversation_id": "2061872790891122751",
+        "created_at": "2026-06-02T18:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061872790891122751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061872790891122751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我其实不是纯爱博主，我只是一个爱约处男的坏女人好吗。。。\n如果我说我又约到处男并且更新doi记录你们会看吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 89,
+          "like_count": 2636,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 669
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T15:45:44.000Z",
+        "description": "我是髁/\n碎碎念(^^)什么都发呀/可以找我聊天/\noc/瓦/ow",
+        "id": "1963991898827440128",
+        "location": "🚪52",
+        "name": "keke",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974299295362007040/DN4oBD_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3067,
+          "following_count": 45,
+          "like_count": 48,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 71
+        },
+        "username": "keke917661",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2062167771438538880",
+    "created_at": "2026-06-03T13:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062168709452730617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662638973578260480",
+          "start": 0,
+          "username": "IlunlInulilIil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062168709452730617",
+    "in_reply_to_user_id": "1662638973578260480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062167771438538880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IlunlInulilIil 我也是，没有遇到想沉下心来对待的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2062167771438538880",
+        "created_at": "2026-06-03T13:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062168709452730617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662638973578260480",
+              "start": 0,
+              "username": "IlunlInulilIil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062168709452730617",
+        "in_reply_to_user_id": "1662638973578260480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062167771438538880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IlunlInulilIil 我也是，没有遇到想沉下心来对待的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662638973578260480",
+        "conversation_id": "2062167771438538880",
+        "created_at": "2026-06-03T13:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062167771438538880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062167771438538880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "旁人都觉得我不安定，情感工作都在漂，可只有我自己知道，恰恰是我会很认真的对待，所以才会一直寻觅。就拿养动物来说，养了绝对就是一辈子且方方面面都要做好的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 89,
+          "like_count": 2641,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 671
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T01:56:48.000Z",
+        "description": "不约/平等发言/别关注",
+        "id": "1662638973578260480",
+        "location": "上海",
+        "name": "IlIlilIl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030614924331044864/xIMgxNJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 168,
+          "like_count": 5094,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 219
+        },
+        "username": "IlunlInulilIil",
+        "verified": false
+      }
+    ]
+  }
+}

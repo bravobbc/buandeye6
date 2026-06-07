@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2063091737321775243",
+    "created_at": "2026-06-06T03:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T04:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063099142025429251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662638973578260480",
+          "start": 0,
+          "username": "IlunlInulilIil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063099142025429251",
+    "in_reply_to_user_id": "1662638973578260480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063091737321775243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IlunlInulilIil 换吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2063091737321775243",
+        "created_at": "2026-06-06T03:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063099142025429251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662638973578260480",
+              "start": 0,
+              "username": "IlunlInulilIil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063099142025429251",
+        "in_reply_to_user_id": "1662638973578260480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063091737321775243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IlunlInulilIil 换吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662638973578260480",
+        "conversation_id": "2063091737321775243",
+        "created_at": "2026-06-06T02:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063091737321775243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063091737321775243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他好像只是满足了，我需要男朋友这个位置被填满的需求，可是他的行为完全不是男朋友。总之很割裂，他好像只是我名义上的男朋友，当初被他吸引的都不复存在了。情绪价值没有、物质没有，最基础的一起约会吃饭也没有，我不知道还有什么理由给予他这个位置。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 90,
+          "like_count": 2668,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 675
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T01:56:48.000Z",
+        "description": "不约/平等发言/别关注",
+        "id": "1662638973578260480",
+        "location": "上海",
+        "name": "IlIlilIl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030614924331044864/xIMgxNJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 168,
+          "like_count": 5117,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 221
+        },
+        "username": "IlunlInulilIil",
+        "verified": false
+      }
+    ]
+  }
+}
