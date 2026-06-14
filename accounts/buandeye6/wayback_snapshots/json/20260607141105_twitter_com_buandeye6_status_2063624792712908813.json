@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2063624792712908813",
+    "created_at": "2026-06-07T14:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063624792712908813"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063624792712908813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我被取消高考成绩了 你满意了吧 刚刚在考场想用手机搜题 他妈的一直给我发涩图 我几把一下把桌子顶翻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2063624792712908813",
+        "created_at": "2026-06-07T14:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063624792712908813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063624792712908813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被取消高考成绩了 你满意了吧 刚刚在考场想用手机搜题 他妈的一直给我发涩图 我几把一下把桌子顶翻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 90,
+          "like_count": 2675,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 677
+        },
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

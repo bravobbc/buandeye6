@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2063654762286141802",
+    "created_at": "2026-06-07T16:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063655659405443243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "702064202551152640",
+          "start": 0,
+          "username": "Erstickt77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063655659405443243",
+    "in_reply_to_user_id": "702064202551152640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063654762286141802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erstickt77 换一个梯子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2063654762286141802",
+        "created_at": "2026-06-07T16:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063655659405443243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "702064202551152640",
+              "start": 0,
+              "username": "Erstickt77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063655659405443243",
+        "in_reply_to_user_id": "702064202551152640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063654762286141802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erstickt77 换一个梯子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "702064202551152640",
+        "conversation_id": "2063654762286141802",
+        "created_at": "2026-06-07T16:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063654762286141802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063654762286141802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考期间人类是不允许有性欲吗 我的梯子要卡死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 90,
+          "like_count": 2673,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 679
+        },
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-23T09:35:24.000Z",
+        "description": "",
+        "id": "702064202551152640",
+        "name": "Erstickt77",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959299358140276736/mMVoEUdS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 74,
+          "like_count": 794,
+          "listed_count": 10,
+          "media_count": 7,
+          "tweet_count": 13
+        },
+        "username": "Erstickt77",
+        "verified": false
+      }
+    ]
+  }
+}
