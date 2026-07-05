@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2070965976406073426",
+    "created_at": "2026-06-27T20:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T21:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070966561456681370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1681856096967983104",
+          "start": 0,
+          "username": "OStdvsyjg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070966561456681370",
+    "in_reply_to_user_id": "1681856096967983104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070965976406073426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OStdvsyjg 一点困意都没嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2070965976406073426",
+        "created_at": "2026-06-27T20:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T21:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070966561456681370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1681856096967983104",
+              "start": 0,
+              "username": "OStdvsyjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070966561456681370",
+        "in_reply_to_user_id": "1681856096967983104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070965976406073426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OStdvsyjg 一点困意都没嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681856096967983104",
+        "conversation_id": "2070965976406073426",
+        "created_at": "2026-06-27T20:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T21:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070965976406073426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070965976406073426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在状态就是，冲了三次但是还是无法入睡。。。我怎么能失眠成这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 96,
+          "like_count": 2673,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 704
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T02:38:46.000Z",
+        "description": "🚪100000000000000000000000000000000000000000000000000000000  我的意思是门都没有  碎碎念小号@cgixigvohct",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "cgixigvohct"
+              }
+            ]
+          }
+        },
+        "id": "1681856096967983104",
+        "name": "鱼板🍥",
+        "pinned_tweet_id": "2061021486723318264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051031983116136448/ma-K2j2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 60,
+          "like_count": 10968,
+          "listed_count": 11,
+          "media_count": 20,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "OStdvsyjg",
+        "verified": false
+      }
+    ]
+  }
+}

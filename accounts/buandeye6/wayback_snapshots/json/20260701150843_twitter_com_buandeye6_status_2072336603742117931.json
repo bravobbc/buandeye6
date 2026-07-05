@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2072336231741149482",
+    "created_at": "2026-07-01T15:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072336603742117931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975073935528992768",
+          "start": 0,
+          "username": "sjwdrzds444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072336603742117931",
+    "in_reply_to_user_id": "1975073935528992768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072336231741149482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjwdrzds444 查询精神状态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2072336231741149482",
+        "created_at": "2026-07-01T15:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072336603742117931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975073935528992768",
+              "start": 0,
+              "username": "sjwdrzds444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072336603742117931",
+        "in_reply_to_user_id": "1975073935528992768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072336231741149482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjwdrzds444 查询精神状态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975073935528992768",
+        "conversation_id": "2072336231741149482",
+        "created_at": "2026-07-01T15:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072336231741149482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072336231741149482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎😑其实我疯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 95,
+          "like_count": 2700,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 709
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T05:41:51.000Z",
+        "description": "",
+        "id": "1975073935528992768",
+        "name": "cad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066715626522165248/RAbpRi1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5104,
+          "following_count": 83,
+          "like_count": 187,
+          "listed_count": 11,
+          "media_count": 1,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "sjwdrzds444",
+        "verified": false
+      }
+    ]
+  }
+}
