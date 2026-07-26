@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079566604489408512",
+        "3_2079566609182752769",
+        "3_2079566604401266688",
+        "3_2079566605194035200"
+      ]
+    },
+    "author_id": "257243542",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2079566612743786910",
+    "created_at": "2026-07-21T13:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079566612743786910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9JmZeHz7b6",
+          "end": 29,
+          "expanded_url": "https://x.com/buandeye6/status/2079566612743786910/photo/1",
+          "media_key": "3_2079566604489408512",
+          "start": 6,
+          "url": "https://t.co/9JmZeHz7b6"
+        },
+        {
+          "display_url": "pic.x.com/9JmZeHz7b6",
+          "end": 29,
+          "expanded_url": "https://x.com/buandeye6/status/2079566612743786910/photo/1",
+          "media_key": "3_2079566609182752769",
+          "start": 6,
+          "url": "https://t.co/9JmZeHz7b6"
+        },
+        {
+          "display_url": "pic.x.com/9JmZeHz7b6",
+          "end": 29,
+          "expanded_url": "https://x.com/buandeye6/status/2079566612743786910/photo/1",
+          "media_key": "3_2079566604401266688",
+          "start": 6,
+          "url": "https://t.co/9JmZeHz7b6"
+        },
+        {
+          "display_url": "pic.x.com/9JmZeHz7b6",
+          "end": 29,
+          "expanded_url": "https://x.com/buandeye6/status/2079566612743786910/photo/1",
+          "media_key": "3_2079566605194035200",
+          "start": 6,
+          "url": "https://t.co/9JmZeHz7b6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079566612743786910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "闪击景德镇 https://t.co/9JmZeHz7b6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079566604489408512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwazwtbQAAqWQm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079566609182752769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwa0CMaAAEa6Va.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2079566604401266688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwazwYaUAAsUaz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079566605194035200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwazzVbAAAK1vc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079566604489408512",
+            "3_2079566609182752769",
+            "3_2079566604401266688",
+            "3_2079566605194035200"
+          ]
+        },
+        "author_id": "257243542",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079566612743786910",
+        "created_at": "2026-07-21T13:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079566612743786910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JmZeHz7b6",
+              "end": 29,
+              "expanded_url": "https://x.com/buandeye6/status/2079566612743786910/photo/1",
+              "media_key": "3_2079566604489408512",
+              "start": 6,
+              "url": "https://t.co/9JmZeHz7b6"
+            },
+            {
+              "display_url": "pic.x.com/9JmZeHz7b6",
+              "end": 29,
+              "expanded_url": "https://x.com/buandeye6/status/2079566612743786910/photo/1",
+              "media_key": "3_2079566609182752769",
+              "start": 6,
+              "url": "https://t.co/9JmZeHz7b6"
+            },
+            {
+              "display_url": "pic.x.com/9JmZeHz7b6",
+              "end": 29,
+              "expanded_url": "https://x.com/buandeye6/status/2079566612743786910/photo/1",
+              "media_key": "3_2079566604401266688",
+              "start": 6,
+              "url": "https://t.co/9JmZeHz7b6"
+            },
+            {
+              "display_url": "pic.x.com/9JmZeHz7b6",
+              "end": 29,
+              "expanded_url": "https://x.com/buandeye6/status/2079566612743786910/photo/1",
+              "media_key": "3_2079566605194035200",
+              "start": 6,
+              "url": "https://t.co/9JmZeHz7b6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079566612743786910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闪击景德镇 https://t.co/9JmZeHz7b6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 95,
+          "like_count": 2719,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 725
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2080331609954529703",
+    "created_at": "2026-07-23T16:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080332936885514580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867041597722095616",
+          "start": 0,
+          "username": "Kittemeow_tea2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080332936885514580",
+    "in_reply_to_user_id": "1867041597722095616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080331609954529703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kittemeow_tea2s 第一眼以为是贴图"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080331584126005250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7Sjb7bMAIbePo.jpg",
+        "width": 1003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2080331609954529703",
+        "created_at": "2026-07-23T16:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080332936885514580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867041597722095616",
+              "start": 0,
+              "username": "Kittemeow_tea2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080332936885514580",
+        "in_reply_to_user_id": "1867041597722095616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080331609954529703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kittemeow_tea2s 第一眼以为是贴图"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080331584126005250"
+          ]
+        },
+        "author_id": "1867041597722095616",
+        "conversation_id": "2080331609954529703",
+        "created_at": "2026-07-23T16:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080331609954529703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y37iQpmlHH",
+              "end": 59,
+              "expanded_url": "https://x.com/Kittemeow_tea2s/status/2080331609954529703/photo/1",
+              "media_key": "3_2080331584126005250",
+              "start": 36,
+              "url": "https://t.co/y37iQpmlHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080331609954529703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈刷到这个哈鸡米好抽象，激情下单（ps：老板长得好像老蒯啊🤓） https://t.co/y37iQpmlHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 98,
+          "like_count": 2729,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 729
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:59:54.000Z",
+        "description": "负能量发泄地/随意拉黑/随意点赞👍🏻/无🚪不玩⭕️/典型摩羯女/170 114/年上/本人照骗普信毒舌颜控双标狂躁阴暗外耗自私/厌蠢厌猪/实用主义/秩序强迫症/No ONS",
+        "id": "1867041597722095616",
+        "location": "NanJing",
+        "name": "糯咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921939895846621184/QXi9STnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4943,
+          "following_count": 321,
+          "like_count": 4421,
+          "listed_count": 11,
+          "media_count": 218,
+          "tweet_count": 4225
+        },
+        "url": "",
+        "username": "Kittemeow_tea2s",
+        "verified": false
+      }
+    ]
+  }
+}

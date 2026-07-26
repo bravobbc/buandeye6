@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2075626420202835968"
+      ]
+    },
+    "author_id": "257243542",
+    "conversation_id": "2075627745246396877",
+    "created_at": "2026-07-10T17:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T18:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075627745246396877"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "做爱"
+        },
+        {
+          "end": 7,
+          "start": 4,
+          "tag": "女上"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FZ9eNbZd5l",
+          "end": 31,
+          "expanded_url": "https://x.com/buandeye6/status/2075627745246396877/video/1",
+          "media_key": "7_2075626420202835968",
+          "start": 8,
+          "url": "https://t.co/FZ9eNbZd5l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075627745246396877",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#做爱 #女上 https://t.co/FZ9eNbZd5l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 136463,
+        "height": 720,
+        "media_key": "7_2075626420202835968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075626420202835968/pu/img/e-Ma7yJui4NxzQss.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075626420202835968/pu/vid/avc1/476x270/1zKbQQKSuTzoJlvf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075626420202835968/pu/vid/avc1/634x360/v-s3ODuxOs6dJkw-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075626420202835968/pu/vid/avc1/1270x720/SAAqZPuCGm3rS70A.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075626420202835968/pu/pl/fq8muLmjODxNuSci.m3u8?tag=12"
+          }
+        ],
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075626420202835968"
+          ]
+        },
+        "author_id": "257243542",
+        "conversation_id": "2075627745246396877",
+        "created_at": "2026-07-10T17:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075627745246396877"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "做爱"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "女上"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZ9eNbZd5l",
+              "end": 31,
+              "expanded_url": "https://x.com/buandeye6/status/2075627745246396877/video/1",
+              "media_key": "7_2075626420202835968",
+              "start": 8,
+              "url": "https://t.co/FZ9eNbZd5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075627745246396877",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#做爱 #女上 https://t.co/FZ9eNbZd5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 95,
+          "like_count": 2705,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 719
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}
