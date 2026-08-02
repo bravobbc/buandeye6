@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080845111072796672"
+      ]
+    },
+    "author_id": "257243542",
+    "conversation_id": "2080845125870383109",
+    "created_at": "2026-07-25T02:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080845125870383109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kac27fFBwD",
+          "end": 28,
+          "expanded_url": "https://x.com/buandeye6/status/2080845125870383109/photo/1",
+          "media_key": "3_2080845111072796672",
+          "start": 5,
+          "url": "https://t.co/Kac27fFBwD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080845125870383109",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天傍晚 https://t.co/Kac27fFBwD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080845111072796672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOClmo4aMAAJV1t.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080845111072796672"
+          ]
+        },
+        "author_id": "257243542",
+        "conversation_id": "2080845125870383109",
+        "created_at": "2026-07-25T02:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080845125870383109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kac27fFBwD",
+              "end": 28,
+              "expanded_url": "https://x.com/buandeye6/status/2080845125870383109/photo/1",
+              "media_key": "3_2080845111072796672",
+              "start": 5,
+              "url": "https://t.co/Kac27fFBwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080845125870383109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天傍晚 https://t.co/Kac27fFBwD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 100,
+          "like_count": 2743,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 732
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

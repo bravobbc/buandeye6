@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2082162703884582936",
+    "created_at": "2026-07-28T17:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082162703884582936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/buandeye6/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/buandeye6/status/2082157774532915657",
+          "start": 16,
+          "url": "https://t.co/VQ0AoejyMb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082162703884582936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082157774532915657",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明天不想去公司了，找个理由旷工 https://t.co/VQ0AoejyMb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2082162703884582936",
+        "created_at": "2026-07-28T17:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082162703884582936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/buandeye6/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/buandeye6/status/2082157774532915657",
+              "start": 16,
+              "url": "https://t.co/VQ0AoejyMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082162703884582936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082157774532915657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天不想去公司了，找个理由旷工 https://t.co/VQ0AoejyMb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2082157774532915657",
+        "created_at": "2026-07-28T17:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082157774532915657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/buandeye6/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/buandeye6/status/2082013204167929881",
+              "start": 8,
+              "url": "https://t.co/p19R0QXgui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082157774532915657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082013204167929881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "酸的睡不着。。 https://t.co/p19R0QXgui"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 105,
+          "like_count": 2765,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 744
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

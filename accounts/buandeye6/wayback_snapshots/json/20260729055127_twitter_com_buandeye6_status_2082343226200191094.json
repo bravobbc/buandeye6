@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082342900327956480"
+      ]
+    },
+    "author_id": "257243542",
+    "conversation_id": "2082343226200191094",
+    "created_at": "2026-07-29T05:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T06:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082343226200191094"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 5,
+          "tag": "doi实录"
+        },
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "做爱"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7lkdi1i3Cc",
+          "end": 39,
+          "expanded_url": "https://x.com/buandeye6/status/2082343226200191094/video/1",
+          "media_key": "13_2082342900327956480",
+          "start": 16,
+          "url": "https://t.co/7lkdi1i3Cc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082343226200191094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打桩录音 #doi实录 #做爱 https://t.co/7lkdi1i3Cc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 442001,
+        "height": 720,
+        "media_key": "13_2082342900327956480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082342900327956480/img/eQVQnbPx47l9TyGi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082342900327956480/vid/avc1/406x270/aYRWfr0_9GoiqhU6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082342900327956480/vid/avc1/542x360/sfAjuLVzUGZ3ihql.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082342900327956480/vid/avc1/1086x720/VAgl4od1Ut7jFUom.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082342900327956480/pl/C_ae-yUf_BHTCZMQ.m3u8"
+          }
+        ],
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082342900327956480"
+          ]
+        },
+        "author_id": "257243542",
+        "conversation_id": "2082343226200191094",
+        "created_at": "2026-07-29T05:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082343226200191094"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "doi实录"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "做爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7lkdi1i3Cc",
+              "end": 39,
+              "expanded_url": "https://x.com/buandeye6/status/2082343226200191094/video/1",
+              "media_key": "13_2082342900327956480",
+              "start": 16,
+              "url": "https://t.co/7lkdi1i3Cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082343226200191094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打桩录音 #doi实录 #做爱 https://t.co/7lkdi1i3Cc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 105,
+          "like_count": 2769,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 746
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false
+      }
+    ]
+  }
+}

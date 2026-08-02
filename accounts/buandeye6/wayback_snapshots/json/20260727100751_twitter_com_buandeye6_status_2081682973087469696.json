@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2081673291643936968",
+    "created_at": "2026-07-27T10:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T11:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081682973087469696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882787664736509953",
+          "start": 0,
+          "username": "km42053151"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081682973087469696",
+    "in_reply_to_user_id": "1882787664736509953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081673291643936968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@km42053151 为啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2081673291643936968",
+        "created_at": "2026-07-27T10:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081682973087469696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882787664736509953",
+              "start": 0,
+              "username": "km42053151"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081682973087469696",
+        "in_reply_to_user_id": "1882787664736509953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081673291643936968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@km42053151 为啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882787664736509953",
+        "conversation_id": "2081673291643936968",
+        "created_at": "2026-07-27T09:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081673291643936968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081673291643936968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊呀呀想注销这个账号换一个了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 105,
+          "like_count": 2759,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 738
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T13:49:14.000Z",
+        "description": "06",
+        "id": "1882787664736509953",
+        "location": "江苏",
+        "name": "XKkkkk",
+        "pinned_tweet_id": "1937934912377569619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077259521358249984/7SEtfm8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 99,
+          "like_count": 284,
+          "listed_count": 4,
+          "media_count": 26,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "km42053151",
+        "verified": false
+      }
+    ]
+  }
+}
