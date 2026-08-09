@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2084211146752749685",
+    "created_at": "2026-08-03T10:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084229146767409181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1454336514129731584",
+          "start": 0,
+          "username": "Z1123xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084229146767409181",
+    "in_reply_to_user_id": "1454336514129731584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084211146752749685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z1123xx 热化了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2084211146752749685",
+        "created_at": "2026-08-03T10:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084229146767409181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1454336514129731584",
+              "start": 0,
+              "username": "Z1123xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084229146767409181",
+        "in_reply_to_user_id": "1454336514129731584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084211146752749685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z1123xx 热化了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454336514129731584",
+        "conversation_id": "2084211146752749685",
+        "created_at": "2026-08-03T09:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T10:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084211146752749685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084211146752749685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "江苏怎么这么热！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 107,
+          "like_count": 2769,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 755
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-30T06:37:05.000Z",
+        "description": "碎碎念",
+        "id": "1454336514129731584",
+        "name": "E.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1454340475234578442/MiGUCibZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 39,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "Z1123xx",
+        "verified": false
+      }
+    ]
+  }
+}

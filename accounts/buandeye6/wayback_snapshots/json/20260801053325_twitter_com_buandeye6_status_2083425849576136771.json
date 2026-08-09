@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2083194689864503723",
+    "created_at": "2026-08-01T05:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083425849576136771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867041597722095616",
+          "start": 0,
+          "username": "Kittemeow_tea2s"
+        },
+        {
+          "end": 27,
+          "id": "1763205627034398720",
+          "start": 17,
+          "username": "ddcmbskym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083425849576136771",
+    "in_reply_to_user_id": "1867041597722095616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083369785862345064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kittemeow_tea2s @ddcmbskym 笑死 我也是这样 已经两个月没do了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2083194689864503723",
+        "created_at": "2026-08-01T05:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083425849576136771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867041597722095616",
+              "start": 0,
+              "username": "Kittemeow_tea2s"
+            },
+            {
+              "end": 27,
+              "id": "1763205627034398720",
+              "start": 17,
+              "username": "ddcmbskym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083425849576136771",
+        "in_reply_to_user_id": "1867041597722095616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083369785862345064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kittemeow_tea2s @ddcmbskym 笑死 我也是这样 已经两个月没do了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867041597722095616",
+        "conversation_id": "2083194689864503723",
+        "created_at": "2026-08-01T01:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083369785862345064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1763205627034398720",
+              "start": 0,
+              "username": "ddcmbskym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083369785862345064",
+        "in_reply_to_user_id": "1763205627034398720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 872,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083194689864503723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddcmbskym 太真实了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 105,
+          "like_count": 2776,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 753
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:59:54.000Z",
+        "description": "负能量发泄地/随意拉黑/随意点赞👍🏻/无🚪不玩⭕️/典型摩羯女/170 114/年上/本人照骗普信毒舌颜控双标狂躁阴暗外耗自私/厌蠢厌猪/实用主义/秩序强迫症/No ONS",
+        "id": "1867041597722095616",
+        "location": "NanJing",
+        "name": "糯咪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921939895846621184/QXi9STnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5092,
+          "following_count": 317,
+          "like_count": 4451,
+          "listed_count": 11,
+          "media_count": 217,
+          "tweet_count": 4261
+        },
+        "url": "",
+        "username": "Kittemeow_tea2s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T14:12:57.000Z",
+        "description": "如果这是一个梦 注定没结果 那就让它是个梦 醒来就解脱",
+        "id": "1763205627034398720",
+        "name": "·★₊˚☾.‎˖ ♥︎ ·˖✶",
+        "pinned_tweet_id": "2073730654358077491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041412271608643584/k-xpaxh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 176,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 639
+        },
+        "url": "",
+        "username": "ddcmbskym",
+        "verified": false
+      }
+    ]
+  }
+}

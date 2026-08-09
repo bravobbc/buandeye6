@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2084308482656989212",
+    "created_at": "2026-08-03T16:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084308754728898788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882787664736509953",
+          "start": 0,
+          "username": "km42053151"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084308754728898788",
+    "in_reply_to_user_id": "1882787664736509953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084308482656989212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@km42053151 偷你屁股"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2084308482656989212",
+        "created_at": "2026-08-03T16:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084308754728898788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882787664736509953",
+              "start": 0,
+              "username": "km42053151"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084308754728898788",
+        "in_reply_to_user_id": "1882787664736509953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084308482656989212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@km42053151 偷你屁股"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882787664736509953",
+        "conversation_id": "2084308482656989212",
+        "created_at": "2026-08-03T16:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084308482656989212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084308482656989212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暂时改名"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "name": "mdL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 107,
+          "like_count": 2775,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 756
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T13:49:14.000Z",
+        "description": "06\nXkkkk",
+        "id": "1882787664736509953",
+        "location": "江苏",
+        "name": "我屁股上有蛋白粉",
+        "pinned_tweet_id": "1937934912377569619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077259521358249984/7SEtfm8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 103,
+          "like_count": 289,
+          "listed_count": 4,
+          "media_count": 23,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "km42053151",
+        "verified": false
+      }
+    ]
+  }
+}
