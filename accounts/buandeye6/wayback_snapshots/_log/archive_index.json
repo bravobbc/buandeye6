@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-16T02:54:04",
+  "last_updated": "2026-08-16T02:54:18",
   "html": {
     "https://web.archive.org/web/20250829110010if_/https://twitter.com/buandeye6/status/1961383369843118592": {
       "status": "done",
@@ -4656,16 +4656,18 @@
       "last_updated": "2026-08-09T03:26:57"
     },
     "https://pbs.twimg.com/profile_images/2086612513756708864/MAOK6leL_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260812151835_twitter_com_buandeye6_status_2087559378249588950.json"
-      ]
+      ],
+      "last_updated": "2026-08-16T02:54:18"
     },
     "https://pbs.twimg.com/profile_images/2069696929601101824/TQAElZ4o_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260814143926_twitter_com_buandeye6_status_2088274302529667282.json"
-      ]
+      ],
+      "last_updated": "2026-08-16T02:54:18"
     }
   },
   "media": {
@@ -10871,7 +10873,7 @@
       "last_updated": "2026-08-16T02:50:51"
     },
     "20260812151835_twitter_com_buandeye6_status_2087559378249588950.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10880,7 +10882,7 @@
           "https://pbs.twimg.com/profile_images/2086612513756708864/MAOK6leL_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-16T02:54:00"
+      "last_updated": "2026-08-16T02:54:18"
     },
     "20260812152550_twitter_com_buandeye6_status_2087561204332208548.json": {
       "status": "done",
@@ -10906,7 +10908,7 @@
       "last_updated": "2026-08-16T02:50:51"
     },
     "20260814143926_twitter_com_buandeye6_status_2088274302529667282.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10916,7 +10918,7 @@
           "https://pbs.twimg.com/profile_images/2069696929601101824/TQAElZ4o_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-16T02:54:00"
+      "last_updated": "2026-08-16T02:54:18"
     }
   }
 }
