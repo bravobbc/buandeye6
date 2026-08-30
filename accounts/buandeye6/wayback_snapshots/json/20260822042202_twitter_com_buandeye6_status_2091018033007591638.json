@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2091007530088685619",
+    "created_at": "2026-08-22T04:22:02.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T05:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091018033007591638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618903705172201472",
+          "start": 0,
+          "username": "zxpf123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091018033007591638",
+    "in_reply_to_user_id": "1618903705172201472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091007530088685619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxpf123 ai帮我去个雾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1545,
+        "media_key": "3_2091007521876217856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTAQzQaEAAu_zy.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2091007530088685619",
+        "created_at": "2026-08-22T04:22:02.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T05:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091018033007591638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618903705172201472",
+              "start": 0,
+              "username": "zxpf123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091018033007591638",
+        "in_reply_to_user_id": "1618903705172201472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091007530088685619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxpf123 ai帮我去个雾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091007521876217856"
+          ]
+        },
+        "author_id": "1618903705172201472",
+        "conversation_id": "2091007530088685619",
+        "created_at": "2026-08-22T03:40:18.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T04:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091007530088685619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lh8cbkE7da",
+              "end": 34,
+              "expanded_url": "https://x.com/zxpf123/status/2091007530088685619/photo/1",
+              "media_key": "3_2091007521876217856",
+              "start": 11,
+              "url": "https://t.co/Lh8cbkE7da"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091007530088685619",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091007521876217856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 435,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我的背也好看😋 https://t.co/Lh8cbkE7da"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091018033007591638",
+        "name": "mdL",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/257243542/1756388972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 104,
+          "like_count": 2888,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 769
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-27T09:28:28.000Z",
+        "description": "sub｜唯一联系方式就是本号私信 ｜互关无门 唯一🚪 doi日常488 小@zxpf1234｜无电报推广自辨🪜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "zxpf1234"
+              }
+            ]
+          }
+        },
+        "id": "1618903705172201472",
+        "is_identity_verified": false,
+        "location": "你心里❤️",
+        "most_recent_tweet_id": "2091007530088685619",
+        "name": "Kiki",
+        "pinned_tweet_id": "1959242075372966112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1618903705172201472/1710174814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888570461824614400/ppWdZo4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29658,
+          "following_count": 299,
+          "like_count": 4155,
+          "listed_count": 123,
+          "media_count": 878,
+          "tweet_count": 9356
+        },
+        "url": "",
+        "username": "zxpf123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
