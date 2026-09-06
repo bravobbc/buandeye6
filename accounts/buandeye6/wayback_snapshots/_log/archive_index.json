@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-06T06:38:02",
+  "last_updated": "2026-09-06T06:38:19",
   "html": {
     "https://web.archive.org/web/20250829110010if_/https://twitter.com/buandeye6/status/1961383369843118592": {
       "status": "done",
@@ -4796,10 +4796,11 @@
       "last_updated": "2026-08-30T07:40:22"
     },
     "https://pbs.twimg.com/profile_images/2090350108348932096/B6xaOmpc_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260827142111_twitter_com_buandeye6_status_2092980750270280109.json"
-      ]
+      ],
+      "last_updated": "2026-09-06T06:38:19"
     }
   },
   "media": {
@@ -11172,7 +11173,7 @@
       "last_updated": "2026-09-06T06:36:17"
     },
     "20260827142111_twitter_com_buandeye6_status_2092980750270280109.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11182,7 +11183,7 @@
           "https://pbs.twimg.com/profile_images/2090350108348932096/B6xaOmpc_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-06T06:37:59"
+      "last_updated": "2026-09-06T06:38:19"
     },
     "20260829043504_twitter_com_buandeye6_status_2093558025005027608.json": {
       "status": "done",
