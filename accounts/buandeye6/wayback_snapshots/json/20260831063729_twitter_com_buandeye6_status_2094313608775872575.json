@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2094305043940044927",
+    "created_at": "2026-08-31T06:37:29.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T07:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094313608775872575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1810569926446567424",
+          "start": 0,
+          "username": "cz_122333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094313608775872575",
+    "in_reply_to_user_id": "1810569926446567424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094305043940044927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cz_122333 怎么还是双床"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2094305043940044927].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2094305043940044927",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2094305043940044927"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2094305043940044927",
+        "created_at": "2026-08-31T06:37:29.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T07:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094313608775872575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1810569926446567424",
+              "start": 0,
+              "username": "cz_122333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094313608775872575",
+        "in_reply_to_user_id": "1810569926446567424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094305043940044927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cz_122333 怎么还是双床"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094313608775872575",
+        "name": "mdL",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/257243542/1756388972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 101,
+          "like_count": 2964,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 780
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-09T07:01:39.000Z",
+        "description": "158一小只～喜欢上网碎碎念分享xp～线下不约～不过门槛🚪纯分享玩玩～口口仙人૮₍ᵔ⤙ᵔ₎ა",
+        "id": "1810569926446567424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2052247868568944886",
+        "name": "嗯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810569926446567424/1727146572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004300877553979397/3mYyBtl__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9425,
+          "following_count": 51,
+          "like_count": 1549,
+          "listed_count": 45,
+          "media_count": 414,
+          "tweet_count": 3802
+        },
+        "url": "",
+        "username": "cz_122333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
