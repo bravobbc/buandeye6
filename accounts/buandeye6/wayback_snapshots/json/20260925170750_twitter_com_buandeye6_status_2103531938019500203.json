@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2103531242989797376"
+      ]
+    },
+    "author_id": "257243542",
+    "conversation_id": "2103531938019500203",
+    "created_at": "2026-09-25T17:07:50.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T18:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103531938019500203"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 6,
+          "tag": "doi实录"
+        },
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "录音"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "男喘"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "做爱"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/voBuq1kxu7",
+          "end": 48,
+          "expanded_url": "https://x.com/buandeye6/status/2103531938019500203/video/1",
+          "media_key": "13_2103531242989797376",
+          "start": 25,
+          "url": "https://t.co/voBuq1kxu7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103531938019500203",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2103531242989797376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发个存货  #doi实录 #录音 #男喘 #做爱 https://t.co/voBuq1kxu7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 314875,
+        "height": 480,
+        "media_key": "13_2103531242989797376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103531242989797376/img/p8kUZ3Br3IKEBvfH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103531242989797376/vid/avc1/478x270/BHh79zV1boTn0Hcx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103531242989797376/vid/avc1/638x360/_x3Q-6DeKSHdTi3I.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103531242989797376/vid/avc1/852x480/aW7gCyuaAthk5WFe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103531242989797376/pl/g6vuMYWJTGbU7EeJ.m3u8"
+          }
+        ],
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103531242989797376"
+          ]
+        },
+        "author_id": "257243542",
+        "conversation_id": "2103531938019500203",
+        "created_at": "2026-09-25T17:07:50.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T18:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103531938019500203"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "doi实录"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "录音"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男喘"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "做爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/voBuq1kxu7",
+              "end": 48,
+              "expanded_url": "https://x.com/buandeye6/status/2103531938019500203/video/1",
+              "media_key": "13_2103531242989797376",
+              "start": 25,
+              "url": "https://t.co/voBuq1kxu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103531938019500203",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2103531242989797376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发个存货  #doi实录 #录音 #男喘 #做爱 https://t.co/voBuq1kxu7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103531938019500203",
+        "name": "mdL",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/257243542/1756388972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 95,
+          "like_count": 3017,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 788
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

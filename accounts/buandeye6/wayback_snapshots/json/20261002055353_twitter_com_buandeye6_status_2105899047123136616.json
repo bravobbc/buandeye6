@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2105703544661950574",
+    "created_at": "2026-10-02T05:53:53.000Z",
+    "display_text_range": [
+      20,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T06:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105899047123136616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1810569926446567424",
+          "start": 0,
+          "username": "cz_122333"
+        },
+        {
+          "end": 19,
+          "id": "1795497104049414144",
+          "start": 11,
+          "username": "hsh6669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105899047123136616",
+    "in_reply_to_user_id": "1810569926446567424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105879707069940218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cz_122333 @hsh6669 西餐感觉怎么样呀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2105879707069940218].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2105879707069940218",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2105879707069940218"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2105703544661950574",
+        "created_at": "2026-10-02T05:53:53.000Z",
+        "display_text_range": [
+          20,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T06:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105899047123136616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1810569926446567424",
+              "start": 0,
+              "username": "cz_122333"
+            },
+            {
+              "end": 19,
+              "id": "1795497104049414144",
+              "start": 11,
+              "username": "hsh6669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105899047123136616",
+        "in_reply_to_user_id": "1810569926446567424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105879707069940218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cz_122333 @hsh6669 西餐感觉怎么样呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105899047123136616",
+        "name": "mdL",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/257243542/1756388972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 98,
+          "like_count": 3068,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 800
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-09T07:01:39.000Z",
+        "description": "158一小只～喜欢上网碎碎念分享xp～线下不约～不过门槛🚪纯分享玩玩～口口仙人૮₍ᵔ⤙ᵔ₎ა",
+        "id": "1810569926446567424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103480632001376748",
+        "name": "嗯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810569926446567424/1727146572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004300877553979397/3mYyBtl__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9755,
+          "following_count": 53,
+          "like_count": 1631,
+          "listed_count": 46,
+          "media_count": 473,
+          "tweet_count": 3994
+        },
+        "url": "",
+        "username": "cz_122333",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-28T16:47:37.000Z",
+        "description": "碎碎念/ 树洞吐槽/ 付费绿色交友委托/ 有偿推广转发/ 商务合作请私信/ 投稿筛选后发出🎁",
+        "id": "1795497104049414144",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2105891531555299811",
+        "name": "进来交友",
+        "pinned_tweet_id": "1854356710154236069",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795497104049414144/1716925541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795541690771701760/K-GFG_I7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429564,
+          "following_count": 35,
+          "like_count": 2961,
+          "listed_count": 350,
+          "media_count": 1442,
+          "tweet_count": 3394
+        },
+        "url": "",
+        "username": "hsh6669",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
