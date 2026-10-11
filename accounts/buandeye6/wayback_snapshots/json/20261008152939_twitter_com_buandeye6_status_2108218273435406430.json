@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2108216621278060978",
+    "created_at": "2026-10-08T15:29:39.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T16:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108218273435406430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1821213869001592832",
+          "start": 0,
+          "username": "Arctic0807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108218273435406430",
+    "in_reply_to_user_id": "1821213869001592832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108216621278060978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arctic0807 老师终于更新了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2153,
+        "media_key": "3_2108216612570718208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUHj1t3a4AAtIwy.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2108216621278060978",
+        "created_at": "2026-10-08T15:29:39.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T16:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108218273435406430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1821213869001592832",
+              "start": 0,
+              "username": "Arctic0807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108218273435406430",
+        "in_reply_to_user_id": "1821213869001592832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108216621278060978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arctic0807 老师终于更新了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108216612570718208"
+          ]
+        },
+        "author_id": "1821213869001592832",
+        "conversation_id": "2108216621278060978",
+        "created_at": "2026-10-08T15:23:05.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T16:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108216621278060978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qXEg4KeuiH",
+              "end": 37,
+              "expanded_url": "https://x.com/Arctic0807/status/2108216621278060978/photo/1",
+              "media_key": "3_2108216612570718208",
+              "start": 14,
+              "url": "https://t.co/qXEg4KeuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108216621278060978",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108216612570718208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们之间是可以吃醋的关系吗 https://t.co/qXEg4KeuiH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108218273435406430",
+        "name": "mdL",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/257243542/1756388972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 99,
+          "like_count": 3092,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 802
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-07T15:57:20.000Z",
+        "description": "07/esfp/165/51kg/我爱吃三文鱼",
+        "id": "1821213869001592832",
+        "is_identity_verified": false,
+        "location": "离你33km",
+        "most_recent_tweet_id": "2108218001036300478",
+        "name": "兔子爱吃三文鱼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1821213869001592832/1724673813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989308202182426624/lVZkmR_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 54,
+          "like_count": 482,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "Arctic0807",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
