@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "257243542",
+    "conversation_id": "2120550971977986220",
+    "created_at": "2026-11-11T16:31:40.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-11-11T17:31:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2120555064393961720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1612684656444575744",
+          "start": 0,
+          "username": "paopaotangwei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2120555064393961720",
+    "in_reply_to_user_id": "1612684656444575744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2120550971977986220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paopaotangwei 看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257243542",
+        "conversation_id": "2120550971977986220",
+        "created_at": "2026-11-11T16:31:40.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-11T17:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2120555064393961720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1612684656444575744",
+              "start": 0,
+              "username": "paopaotangwei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2120555064393961720",
+        "in_reply_to_user_id": "1612684656444575744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2120550971977986220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paopaotangwei 看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612684656444575744",
+        "conversation_id": "2120550971977986220",
+        "created_at": "2026-11-11T16:15:24.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-11-11T17:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2120550971977986220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2120550971977986220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闲的清相册 \n突然想起以前拍的私密照片锁在隐私相册里了\n打开一看  一千多个照片➕视频  😑😑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2011-02-25T01:11:14.000Z",
+        "description": "南京",
+        "id": "257243542",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2120555064393961720",
+        "name": "mdL",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/257243542/1756388972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961063600442986496/UsOsyEqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 92,
+          "like_count": 3296,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 830
+        },
+        "url": "",
+        "username": "buandeye6",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-10T05:36:17.000Z",
+        "description": "",
+        "id": "1612684656444575744",
+        "is_identity_verified": false,
+        "location": "南京",
+        "most_recent_tweet_id": "2120550971977986220",
+        "name": "泡泡糖味的🍬",
+        "pinned_tweet_id": "2039383338797212021",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1612684656444575744/1734347355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666085941373734921/A-V-vOlZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2739,
+          "following_count": 46,
+          "like_count": 160,
+          "listed_count": 14,
+          "media_count": 23,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "paopaotangwei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
